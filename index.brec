@@ -58,6 +58,8 @@ Wayic index
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     material point, Breccian point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    model, way, term
+        : join `^^way model, term$`
     node, formal unit of Breccia
         : see `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     parent, Breccian nodal relative
@@ -71,9 +73,8 @@ Wayic index
     pointer, Breccian associative reference
         : see `^^ Pointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    publication
-        Web publication, instructions for Breccia
-            : join
+    publication, Web, instructions for Breccia
+            : join `^^Web publication, instructions for Breccia$`
     specialized material point, Breccian material point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     static block, part of a Breccian descriptor
@@ -81,6 +82,18 @@ Wayic index
     task point, Breccian specialized material point
         : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    way, term
+        : see `^^way$` @ lexicon.brec
+    wayic
+        : see http://reluk.ca/project/wayic/
+        , term
+            : see `^^wayic$` @ lexicon.brec
+    wayical, term
+        : see `^^wayical$` @ lexicon.brec
+    wayics, term
+        : see `^^wayics$` @ lexicon.brec
+    way model, term
+        : see `^^way model$` @ lexicon.brec
     Web publication, instructions for Breccia
         : see `^^Web publication` @ http://reluk.ca/project/Breccia/project_installation.brec
     whitespace, Breccian character

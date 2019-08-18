@@ -1,0 +1,27 @@
+Definition of terms for project wayic.refractory
+
+    way
+        ─ noun
+            - A personal goal, especially a final or endmost goal, and the chosen means of getting there.
+    wayic
+        ─ noun
+            - A methodology or system of way formation.
+        ─ adjective
+            - Concerning ways or way formation.
+    wayical
+        ─ adjective
+            : join @ `^^wayic$`
+    wayics
+        ─ plural noun
+            ─ treated as singular
+                - The branch of knowledge dealing with ways and way formation.
+            ─ treated as the plural of ‘wayic’
+                : see `^^─ noun$` @ `^^wayic$`
+    way model
+        ─ noun
+            - A representation of a way.
+        ─ verb
+            - Fashion a representation of a way.
+
+
+                                        \ Copyright © 2019, Michael Allan and contributors.  Licence MIT.
