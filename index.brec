@@ -1,0 +1,90 @@
+Wayic index
+
+
+    aside point, Breccian specialized material point
+        : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    associative reference, Breccian command point
+        : see `^^ Associative reference^^$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    block commentary, Breccian commentary
+        : see `^^block commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    body, part of a Breccian node
+        : see `^^body$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    body node, Breccian node
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    Breccia
+        , language
+            : see http://reluk.ca/project/Breccia/language_definition.brec
+        , term
+            : see `^^Breccia$` @ http://reluk.ca/project/Breccia/lexicon.brec
+    Breccia mode, major mode for Emacs
+        : see http://reluk.ca/project/Breccia/Emacs/
+    bullet, part of a Breccian point head
+        : see `^^ Bullet$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    child, Breccian nodal relative
+        : see `^^• child$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    command point, Breccian formal point
+        : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    commentary, part of a Breccian descriptor
+        : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    comment block, part of Breccian block commentary
+        : see `^^comment block$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    descriptor, part of a Breccian document head or point head
+        : see `^^ Descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    divider, Breccian division head
+        : see `^^divider$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    division, Breccian body node
+        : see `^^ Division$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    document node, Breccian node
+        : see `^^document node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    exception point, Breccian specialized material point
+        : see `^^ Exception point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    formal point, Breccian point
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    generic point, Breccian material point
+        : see `^^ Generic point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    head, part of a Breccian node
+        : see `^^head$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    inline commentary, Breccian commentary
+        : see `^^inline commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    jointer, Breccian associative reference
+        : see `^^ Jointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    material point, Breccian point
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    node, formal unit of Breccia
+        : see `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    parent, Breccian nodal relative
+        : see `^^• parent$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    perfect indentation, formal unit of Breccia
+        : see `^^perfect indentation$` @ `^^ Whitespace$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
+    point, Breccian body node
+        : see `^^ Point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    pointer, Breccian associative reference
+        : see `^^ Pointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    publication
+        Web publication, instructions for Breccia
+            : join
+    specialized material point, Breccian material point
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    static block, part of a Breccian descriptor
+        : see `^^ Static block$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    task point, Breccian specialized material point
+        : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    Web publication, instructions for Breccia
+        : see `^^Web publication` @ http://reluk.ca/project/Breccia/project_installation.brec
+    whitespace, Breccian character
+        : see `^^ Whitespace$` @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+                                        \ Copyright © 2019, Michael Allan and contributors.  Licence MIT.
