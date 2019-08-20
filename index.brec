@@ -102,6 +102,10 @@ Wayic index
         : see `^^wayics$` @ lexicon.brec
     way model, term
         : see `^^way model$` @ lexicon.brec
+    wayscript, term
+        : see `^^wayscript$` @ lexicon.brec
+    waysource, term
+        : see `^^waysource$` @ lexicon.brec
     Web publication, instructions for Breccia
         : see `^^Web publication` @ http://reluk.ca/project/Breccia/project_installation.brec
     whitespace, Breccian character

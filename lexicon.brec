@@ -22,6 +22,14 @@ Definition of terms for project wayic.refractory
             - A representation of a way.
         ─ verb
             - Fashion a representation of a way.
+    wayscript
+        : join `^^waysource$`
+    waysource
+        ─ mass noun
+            - A text listing of declarations to be compiled into an executable way model.
+                / After the definition of ‘source code’ from the Oxford English dictionary.
+                    : see https://www.lexico.com/en/definition/source_code
+                / The wayical analogue of source code.
 
 
                                         \ Copyright © 2019, Michael Allan and contributors.  Licence MIT.
