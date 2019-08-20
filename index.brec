@@ -92,6 +92,8 @@ Wayic index
         : see `^^waycast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
     wayic
         : see http://reluk.ca/project/wayic/
+        , purpose
+            : see http://reluk.ca/project/wayic/architec/purpose.brec
         , term
             : see `^^wayic$` @ lexicon.brec
     wayical, term
