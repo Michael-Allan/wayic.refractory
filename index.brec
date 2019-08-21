@@ -88,8 +88,11 @@ Wayic index
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     way, term
         : see `^^way$` @ lexicon.brec
-    waycast, term
-        : see `^^waycast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
+    waycast
+        , form
+            : see http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+        , term
+            : see `^^waycast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
     wayic
         : see http://reluk.ca/project/wayic/
         , purpose
