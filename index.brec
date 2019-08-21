@@ -11,6 +11,8 @@ Wayic index
     associative reference, Breccian command point
         : see `^^ Associative reference^^$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    authority, certificate
+        : join `^^certificate of authority$`
     block commentary, Breccian commentary
         : see `^^block commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
     body, part of a Breccian node
@@ -26,6 +28,8 @@ Wayic index
         : see http://reluk.ca/project/Breccia/Emacs/
     bullet, part of a Breccian point head
         : see `^^ Bullet$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    certificate of authority
+        : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     child, Breccian nodal relative
         : see `^^• child$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     command point, Breccian formal point
@@ -55,6 +59,8 @@ Wayic index
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     head, part of a Breccian node
         : see `^^head$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    identifier, waycaster
+        : join `^^waycaster, identifier$`
     inline commentary, Breccian commentary
         : see `^^inline commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer, Breccian associative reference
@@ -93,6 +99,10 @@ Wayic index
             : see http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         , term
             : see `^^waycast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
+    waycaster, identifier
+        : see `^^identifier of a waycaster$` @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+        : see `^^waycaster_identifier$` @ `^^certificate of authority$`
+          @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     wayic
         : see http://reluk.ca/project/wayic/
         , purpose
