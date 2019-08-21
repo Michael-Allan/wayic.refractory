@@ -93,6 +93,12 @@ Wayic index
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     static block, part of a Breccian descriptor
         : see `^^ Static block$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    subjoin, term
+        : see `^^subjoin$` @ http://reluk.ca/project/Breccia/lexicon.brec
+        \ thence ‘subjoint’
+    surjoin, term
+        : see `^^surjoin$` @ http://reluk.ca/project/Breccia/lexicon.brec
+        \ thence ‘surjoint’
     task point, Breccian specialized material point
         : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
