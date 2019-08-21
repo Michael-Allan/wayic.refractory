@@ -49,6 +49,8 @@ Wayic index
     document node, Breccian node
         : see `^^document node$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    engagement, private
+        : join `^^private engagement$`
     exception point, Breccian specialized material point
         : see `^^ Exception point$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -83,6 +85,8 @@ Wayic index
     pointer, Breccian associative reference
         : see `^^ Pointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    private engagement
+        : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     publication, Web, instructions for Breccia
             : join `^^Web publication, instructions for Breccia$`
     specialized material point, Breccian material point
