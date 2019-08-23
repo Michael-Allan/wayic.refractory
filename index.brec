@@ -85,6 +85,8 @@ Wayic index
     pointer, Breccian associative reference
         : see `^^ Pointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    private, term
+        : see `^^private$$` @ lexicon.brec
     private engagement
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     publication, Web, instructions for Breccia
