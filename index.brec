@@ -28,6 +28,8 @@ Wayic index
         : see http://reluk.ca/project/Breccia/Emacs/
     bullet, part of a Breccian point head
         : see `^^ Bullet$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    cast, term
+        : see `^^cast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
     certificate of authority
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     child, Breccian nodal relative
@@ -72,8 +74,11 @@ Wayic index
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     model, way, term
         : join `^^way model, term$`
-    node, formal unit of Breccia
-        : see `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    node
+        , formal unit of Breccia
+            : see `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        , way root
+            : join `^^way root node, term$`
     parent, Breccian nodal relative
         : see `^^• parent$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     perfect indentation, formal unit of Breccia
@@ -91,6 +96,10 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     publication, Web, instructions for Breccia
             : join `^^Web publication, instructions for Breccia$`
+    recast, term
+        : see `^^recast$` @ http://reluk.ca/project/wayic/recast/lexicon.brec
+    root, way node
+        : join `^^way root node, term$`
     specialized material point, Breccian material point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     static block, part of a Breccian descriptor
@@ -127,6 +136,8 @@ Wayic index
         : see `^^wayics$` @ lexicon.brec
     way model, term
         : see `^^way model$` @ lexicon.brec
+    way root node, term
+        : see `^^way root node$` @ http://reluk.ca/project/wayic/brec/plan_of_action.brec
     wayscript, term
         : see `^^wayscript$` @ lexicon.brec
     waysource, term
