@@ -72,12 +72,12 @@ Wayic index
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     material point, Breccian point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    model, way, term
+    model, ‘way model’
         : join `^^way model, term$`
     node
         , formal unit of Breccia
             : see `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        , way root
+        , ‘way root node’
             : join `^^way root node, term$`
     parent, Breccian nodal relative
         : see `^^• parent$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -98,7 +98,7 @@ Wayic index
             : join `^^Web publication, instructions for Breccia$`
     recast, term
         : see `^^recast$` @ http://reluk.ca/project/wayic/recast/lexicon.brec
-    root, way node
+    root, ‘way root node’
         : join `^^way root node, term$`
     specialized material point, Breccian material point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
