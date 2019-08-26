@@ -9,10 +9,8 @@ Wayic index
         : see `^^architecture$` @ http://reluk.ca/project/wayic/architec/lexicon.brec
     aside point, Breccian specialized material point
         : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference, Breccian command point
         : see `^^ Associative reference^^$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     authority, certificate
         : join `^^certificate of authority$`
     block commentary, Breccian commentary
@@ -36,9 +34,10 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     child, Breccian nodal relative
         : see `^^• child$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    child insertion patch, Waybrec patch
+        : see `^^ child insertion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     command point, Breccian formal point
         : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     commentary, part of a Breccian descriptor
         : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
     comment block, part of Breccian block commentary
@@ -51,20 +50,16 @@ Wayic index
         : see `^^divider$` @ http://reluk.ca/project/Breccia/language_definition.brec
     division, Breccian body node
         : see `^^ Division$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     document node, Breccian node
         : see `^^document node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     engagement, private
         : join `^^private engagement$`
     exception point, Breccian specialized material point
         : see `^^ Exception point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     formal point, Breccian point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     generic point, Breccian material point
         : see `^^ Generic point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     head, part of a Breccian node
         : see `^^head$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     identifier, waycaster
@@ -73,7 +68,6 @@ Wayic index
         : see `^^inline commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer, Breccian associative reference
         : see `^^ Jointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     material point, Breccian point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     model, term ‘way model’
@@ -93,10 +87,8 @@ Wayic index
           @ http://reluk.ca/project/Breccia/language_definition.brec
     point, Breccian body node
         : see `^^ Point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     pointer, Breccian associative reference
         : see `^^ Pointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     precession patch, Waybrec sibling insertion patch
         : see `^^precession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     prependage patch, Waybrec child insertion patch
@@ -111,6 +103,8 @@ Wayic index
         : see `^^recast$` @ http://reluk.ca/project/wayic/recast/lexicon.brec
     replacement patch, Waybrec patch
         : see `^^replacement patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    sibling insertion patch, Waybrec patch
+        : see `^^ sibling insertion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     specialized material point, Breccian material point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     static block, part of a Breccian descriptor
@@ -125,7 +119,6 @@ Wayic index
         \ thence ‘surjoint’
     task point, Breccian specialized material point
         : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     way, term
         : see `^^way$` @ lexicon.brec
     Waybrec, language
