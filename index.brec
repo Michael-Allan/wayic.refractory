@@ -1,6 +1,23 @@
 Wayic index
 
 
+    `!!`, Breccian bullet or delimiter
+        : see `^^ Exception point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    `$$`, Breccian pattern matching symbol
+        : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    `+`, Breccian bullet or delimiter
+        : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    `/`, Breccian bullet
+        : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    `:`, Breccian bullet
+        : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    `@`, Breccian delimiter
+        : see `^^ancestral node indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^referent document indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    `^^`, Breccian pattern matching symbol
+        : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    append, Waybrec keyword
+        : see `^^appendage patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     appendage patch, Waybrec child insertion patch
         : see `^^appendage patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     architectonic, term
@@ -42,6 +59,8 @@ Wayic index
         : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
     comment block, part of Breccian block commentary
         : see `^^comment block$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    delete, Waybrec keyword
+        : see `^^deletion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     deletion patch, Waybrec patch
         : see `^^deletion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     descriptor, part of a Breccian document head or point head
@@ -66,6 +85,8 @@ Wayic index
         : join `^^waycaster, identifier$`
     inline commentary, Breccian commentary
         : see `^^inline commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    join, Breccian referential command
+        : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer, Breccian associative reference
         : see `^^ Jointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
     material point, Breccian point
@@ -82,6 +103,8 @@ Wayic index
         : see `^^• parent$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     patch, Waybrec command point
         : see `^^ Patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    pattern matching
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     perfect indentation, formal unit of Breccia
         : see `^^perfect indentation$` @ `^^ Whitespace$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -89,8 +112,12 @@ Wayic index
         : see `^^ Point$` @ http://reluk.ca/project/Breccia/language_definition.brec
     pointer, Breccian associative reference
         : see `^^ Pointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    precede, Waybrec keyword
+        : see `^^precession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     precession patch, Waybrec sibling insertion patch
         : see `^^precession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    prepend, Waybrec keyword
+        : see `^^prependage patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     prependage patch, Waybrec child insertion patch
         : see `^^prependage patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     private, term
@@ -99,10 +126,18 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     publication, Web, instructions for Breccia
             : join `^^Web publication, instructions for Breccia$`
+    re, Breccian keyword
+        : see `^^referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     recast, term
         : see `^^recast$` @ http://reluk.ca/project/wayic/recast/lexicon.brec
+    regular expression
+        : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    replace, Waybrec keyword
+        : see `^^replacement patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     replacement patch, Waybrec patch
         : see `^^replacement patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    see, Breccian referential command
+        : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling insertion patch, Waybrec patch
         : see `^^ sibling insertion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     specialized material point, Breccian material point
@@ -112,6 +147,8 @@ Wayic index
     subjoin, term
         : see `^^subjoin$` @ http://reluk.ca/project/Breccia/lexicon.brec
         \ thence ‘subjoint’
+    succeed, Waybrec keyword
+        : see `^^succession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     succession patch, Waybrec sibling insertion patch
         : see `^^succession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
     surjoin, term
@@ -132,6 +169,15 @@ Wayic index
         : see `^^identifier of a waycaster$` @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         : see `^^waycaster_identifier$` @ `^^certificate of authority$`
           @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+    wayhead
+        , keyword
+            : see `^^ Wayhead designator$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
+        , term
+            : see `^^wayhead$` @ http://reluk.ca/project/wayic/brec/lexicon.brec
+    wayhead designator, Waybrec command point
+        : see `^^ Wayhead designator$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    wayhead node, term
+        : see `^^wayhead node$` @ http://reluk.ca/project/wayic/brec/lexicon.brec
     wayic
         : see http://reluk.ca/project/wayic/
         , purpose
@@ -144,12 +190,6 @@ Wayic index
         : see `^^wayics$` @ lexicon.brec
     way model, term
         : see `^^way model$` @ lexicon.brec
-    wayhead, term
-        : see `^^wayhead$` @ http://reluk.ca/project/wayic/brec/lexicon.brec
-    wayhead designator, Waybrec command point
-        : see `^^ Wayhead designator$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    wayhead node, term
-        : see `^^wayhead node$` @ http://reluk.ca/project/wayic/brec/lexicon.brec
     wayscript, term
         : see `^^wayscript$` @ lexicon.brec
     waysource, term
