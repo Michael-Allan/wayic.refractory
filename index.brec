@@ -1,171 +1,170 @@
 Wayic index
 
 
-    `!!`, Breccian bullet or delimiter
+    `!!`
         : see `^^ Exception point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    `$$`, Breccian pattern matching symbol
+    `$$`
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    `+`, Breccian bullet or delimiter
+    `+`
         : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    `/`, Breccian bullet
+    `/`
         : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    `:`, Breccian bullet
+    `:`
         : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    `@`, Breccian delimiter
+    `@`
         : see `^^ancestral node indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^referent document indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    `^^`, Breccian pattern matching symbol
+    `^^`
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    append, Waybrec keyword
+    append
         : see `^^appendage patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    appendage patch, Waybrec child insertion patch
-        : see `^^appendage patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    architectonic, term
-        : see `^^architectonic$` @ http://reluk.ca/project/wayic/architec/lexicon.brec
-    architecture, term
-        : see `^^architecture$` @ http://reluk.ca/project/wayic/architec/lexicon.brec
-    aside point, Breccian specialized material point
-        : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    associative reference, Breccian command point
-        : see `^^ Associative reference^^$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    appendage patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    architectonic
+        : see @ http://reluk.ca/project/wayic/architec/lexicon.brec
+    architecture
+        : see @ http://reluk.ca/project/wayic/architec/lexicon.brec
+    aside point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    associative reference
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     authority, certificate
         : join `^^certificate of authority$`
-    block commentary, Breccian commentary
-        : see `^^block commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    body, part of a Breccian node
-        : see `^^body$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    body node, Breccian node
+    block commentary
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    body
+        : see @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    body node
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     Breccia
         , language
             : see http://reluk.ca/project/Breccia/language_definition.brec
         , term
             : see `^^Breccia$` @ http://reluk.ca/project/Breccia/lexicon.brec
-    Breccia mode, major mode for Emacs
+    Breccia mode
         : see http://reluk.ca/project/Breccia/Emacs/
-    bullet, part of a Breccian point head
-        : see `^^ Bullet$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    cast, term
-        : see `^^cast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
+    bullet
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    cast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
     certificate of authority
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
-    child, Breccian nodal relative
+    child
         : see `^^• child$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    child insertion patch, Waybrec patch
-        : see `^^ child insertion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    command point, Breccian formal point
-        : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    commentary, part of a Breccian descriptor
-        : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    comment block, part of Breccian block commentary
-        : see `^^comment block$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    delete, Waybrec keyword
+    child insertion patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    command point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    commentary
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    comment block
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    delete
         : see `^^deletion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    deletion patch, Waybrec patch
-        : see `^^deletion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    descriptor, part of a Breccian document head or point head
-        : see `^^ Descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    divider, Breccian division head
-        : see `^^divider$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    division, Breccian body node
-        : see `^^ Division$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    document node, Breccian node
-        : see `^^document node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    deletion patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    descriptor
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    divider
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    division
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    document node
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     engagement, private
         : join `^^private engagement$`
-    exception point, Breccian specialized material point
-        : see `^^ Exception point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    formal point, Breccian point
+    exception point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    formal point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    generic point, Breccian material point
-        : see `^^ Generic point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    head, part of a Breccian node
-        : see `^^head$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    generic point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    head
+        : see @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     identifier, waycaster
-        : join `^^waycaster, identifier$`
-    inline commentary, Breccian commentary
-        : see `^^inline commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    join, Breccian referential command
+        : join `^^waycaster identifier$`
+    inline commentary
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    join
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    jointer, Breccian associative reference
-        : see `^^ Jointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    material point, Breccian point
+    jointer
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    material point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     model, term ‘way model’
-        : join `^^way model, term$`
-    node, formal unit of Breccia
-        : see `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    off-way, term
-        : see `^^off-way$` @ http://reluk.ca/project/wayic/brec/lexicon.brec
-    on-way, term
-        : see `^^on-way$` @ http://reluk.ca/project/wayic/brec/lexicon.brec
-    parent, Breccian nodal relative
+        : join `^^way model$`
+    node
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    off-way
+        : see @ http://reluk.ca/project/wayic/brec/lexicon.brec
+    on-way
+        : see @ http://reluk.ca/project/wayic/brec/lexicon.brec
+    parent
         : see `^^• parent$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    patch, Waybrec command point
-        : see `^^ Patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
     pattern matching
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    perfect indentation, formal unit of Breccia
-        : see `^^perfect indentation$` @ `^^ Whitespace$`
-          @ http://reluk.ca/project/Breccia/language_definition.brec
-    point, Breccian body node
-        : see `^^ Point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    pointer, Breccian associative reference
-        : see `^^ Pointer$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    precede, Waybrec keyword
+    perfect indentation
+        : see @ `^^ Whitespace$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    pointer
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    precede
         : see `^^precession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    precession patch, Waybrec sibling insertion patch
-        : see `^^precession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    prepend, Waybrec keyword
+    precession patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    prepend
         : see `^^prependage patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    prependage patch, Waybrec child insertion patch
-        : see `^^prependage patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    private, term
-        : see `^^private$$` @ lexicon.brec
+    prependage patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    private
+        : see @ lexicon.brec
     private engagement
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
-    publication, Web, instructions for Breccia
-            : join `^^Web publication, instructions for Breccia$`
-    re, Breccian keyword
+    publication
+        : join `^^Web publication$`
+    re
         : see `^^referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    recast, term
-        : see `^^recast$` @ http://reluk.ca/project/wayic/recast/lexicon.brec
+    recast
+        : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
     regular expression
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    replace, Waybrec keyword
+    replace
         : see `^^replacement patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    replacement patch, Waybrec patch
-        : see `^^replacement patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    see, Breccian referential command
+    replacement patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    see
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    sibling insertion patch, Waybrec patch
-        : see `^^ sibling insertion patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    specialized material point, Breccian material point
+    sibling insertion patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    specialized material point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    static block, part of a Breccian descriptor
-        : see `^^ Static block$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    subjoin, term
-        : see `^^subjoin$` @ http://reluk.ca/project/Breccia/lexicon.brec
-        \ thence ‘subjoint’
-    succeed, Waybrec keyword
+    static block
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    subjoin
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+            \ thence ‘subjoint’
+    succeed
         : see `^^succession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    succession patch, Waybrec sibling insertion patch
-        : see `^^succession patch$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    surjoin, term
-        : see `^^surjoin$` @ http://reluk.ca/project/Breccia/lexicon.brec
-        \ thence ‘surjoint’
-    task point, Breccian specialized material point
-        : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    way, term
-        : see `^^way$` @ lexicon.brec
-    Waybrec, language
+    succession patch
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    surjoin
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+            \ thence ‘surjoint’
+    task point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    way
+        : see @ lexicon.brec
+    Waybrec
         : see http://reluk.ca/project/wayic/brec/
     waycast
         , form
             : see http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         , term
             : see `^^waycast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
-    waycaster, identifier
+    waycaster identifier
         : see `^^identifier of a waycaster$` @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         : see `^^waycaster_identifier$` @ `^^certificate of authority$`
           @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
@@ -174,30 +173,30 @@ Wayic index
             : see `^^ Wayhead designator$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
         , term
             : see `^^wayhead$` @ http://reluk.ca/project/wayic/brec/lexicon.brec
-    wayhead designator, Waybrec command point
-        : see `^^ Wayhead designator$` @ http://reluk.ca/project/wayic/brec/language_definition.brec
-    wayhead node, term
-        : see `^^wayhead node$` @ http://reluk.ca/project/wayic/brec/lexicon.brec
+    wayhead designator
+        : see @ http://reluk.ca/project/wayic/brec/language_definition.brec
+    wayhead node
+        : see @ http://reluk.ca/project/wayic/brec/lexicon.brec
     wayic
         : see http://reluk.ca/project/wayic/
         , purpose
             : see http://reluk.ca/project/wayic/architec/purpose.brec
         , term
             : see `^^wayic$` @ lexicon.brec
-    wayical, term
-        : see `^^wayical$` @ lexicon.brec
-    wayics, term
-        : see `^^wayics$` @ lexicon.brec
-    way model, term
-        : see `^^way model$` @ lexicon.brec
-    wayscript, term
-        : see `^^wayscript$` @ lexicon.brec
-    waysource, term
-        : see `^^waysource$` @ lexicon.brec
-    Web publication, instructions for Breccia
-        : see `^^Web publication` @ http://reluk.ca/project/Breccia/project_installation.brec
-    whitespace, Breccian character
-        : see `^^ Whitespace$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    wayical
+        : see @ lexicon.brec
+    wayics
+        : see @ lexicon.brec
+    way model
+        : see @ lexicon.brec
+    wayscript
+        : see @ lexicon.brec
+    waysource
+        : see @ lexicon.brec
+    Web publication
+        : see @ http://reluk.ca/project/Breccia/project_installation.brec
+    whitespace
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
                                         \ Copyright © 2019, Michael Allan and contributors.  Licence MIT.
