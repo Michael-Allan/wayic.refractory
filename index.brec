@@ -14,6 +14,8 @@ Wayic index
     `@`
         : see `^^ancestral node indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^referent document indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    `\`
+        : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `^^`
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     append
@@ -28,7 +30,7 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    authority, certificate
+    authority, certificate of
         : join `^^certificate of authority$`
     block commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -179,7 +181,7 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/brec/lexicon.brec
     wayic
         : see http://reluk.ca/project/wayic/
-        , purpose
+        , purpose of
             : see http://reluk.ca/project/wayic/architec/purpose.brec
         , term
             : see `^^wayic$` @ lexicon.brec
