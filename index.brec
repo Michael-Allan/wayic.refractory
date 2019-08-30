@@ -59,6 +59,7 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     command point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     comment block
@@ -106,6 +107,7 @@ Wayic index
         : join `^^way model$`
     node
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     off-way
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     on-way
