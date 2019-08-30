@@ -75,7 +75,7 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     document node
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    engagement, private
+    engagement, term ‘private engagement’
         : join `^^private engagement$`
     exception point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -85,10 +85,15 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     head
         : see @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    identifier, waycaster
+    identifier, of waycaster
         : join `^^waycaster identifier$`
     inline commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    insertion patch
+        , for a child
+            : join `^^child insertion patch$`
+        , for a sibling
+            : join `^^sibling insertion patch$`
     join
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer
@@ -131,7 +136,7 @@ Wayic index
         : see @ lexicon.brec
     private engagement
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
-    publication
+    publication, to Web
         : join `^^Web publication$`
     re
         : see `^^referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
