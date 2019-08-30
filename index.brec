@@ -93,6 +93,8 @@ Wayic index
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    linear order
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     material point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     model, term ‘way model’
@@ -103,6 +105,8 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     on-way
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    order, term ‘linear order’
+        : join `^^linear order$`
     parent
         : see `^^• parent$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
