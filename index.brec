@@ -18,6 +18,10 @@ Wayic index
         : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `^^`
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ A ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     append
         : see `^^appendage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     appendage patch
@@ -34,6 +38,10 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     authority, certificate of
         : join `^^certificate of authority$`
+
+
+╺━━ B ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     block commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     body
@@ -55,6 +63,10 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     bullet
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ C ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     cast
         , term
             : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
@@ -73,6 +85,10 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     comment block
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ D ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     delete
         : see `^^deletion patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     deletion patch
@@ -85,6 +101,10 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     document node
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ E ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     Emacs
         , Breccia.Emacs
             : join `^^Breccia.Emacs$`
@@ -94,12 +114,28 @@ Wayic index
         : join `^^private engagement$`
     exception point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ F ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     formal point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ G ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     generic point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ H ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     head
         : see @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ I ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     identifier, of waycaster
         : join `^^waycaster identifier$`
     inline commentary
@@ -109,25 +145,49 @@ Wayic index
             : join `^^child insertion patch$`
         , for a sibling
             : join `^^sibling insertion patch$`
+
+
+╺━━ J ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     join
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ L ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     linear order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+
+
+╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     material point
         : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     model, term ‘way model’
         : join `^^way model$`
+
+
+╺━━ N ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     node
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+
+
+╺━━ O ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     off-way
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     on-way
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     order, term ‘linear order’
         : join `^^linear order$`
+
+
+╺━━ P ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     parent
         : see `^^• parent$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
@@ -154,6 +214,10 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     publication, to Web
         : join `^^Web publication$`
+
+
+╺━━ R ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     re
         : see `^^referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     recast
@@ -169,6 +233,10 @@ Wayic index
         : see `^^replacement patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     replacement patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+
+
+╺━━ S ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     see
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling insertion patch
@@ -187,8 +255,16 @@ Wayic index
     surjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
             \ thence ‘surjoint’
+
+
+╺━━ T ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     task point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
+
+╺━━ W ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
     way
         : see @ lexicon.brec
     Waybrec
@@ -253,6 +329,7 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/project_installation.brec
     whitespace
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+
 
 
                                         \ Copyright © 2019, Michael Allan and contributors.  Licence MIT.
