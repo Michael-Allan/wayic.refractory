@@ -22,6 +22,8 @@ Wayic index
         : see `^^appendage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     appendage patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    architec, wayic.architec
+        : join `^^wayic.architec$`
     architectonic
         : see @ http://reluk.ca/project/wayic/architec/lexicon.brec
     architecture
@@ -41,16 +43,23 @@ Wayic index
     Breccia
         , language
             : see http://reluk.ca/project/Breccia/language_definition.brec
+        , project
+            : see http://reluk.ca/project/Breccia/
         , term
             : see `^^Breccia$` @ http://reluk.ca/project/Breccia/lexicon.brec
-    Breccia mode
+    Breccia.Emacs
         : see http://reluk.ca/project/Breccia/Emacs/
+    Breccia mode
+        : see http://reluk.ca/project/Breccia/Emacs/Breccia_mode.el
     Breccian
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     bullet
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     cast
-        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+        , term
+            : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+        , wayic.cast
+            : join `^^wayic.cast$`
     certificate of authority
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     child
@@ -76,6 +85,11 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     document node
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    Emacs
+        , Breccia.Emacs
+            : join `^^Breccia.Emacs$`
+        , Waybrec.Emacs
+            : join `^^wayic.Waybrec.Emacs$`
     engagement, term ‘private engagement’
         : join `^^private engagement$`
     exception point
@@ -143,7 +157,12 @@ Wayic index
     re
         : see `^^referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     recast
-        : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
+        , term
+            : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
+        , wayic.recast
+            : join `^^wayic.recast$`
+    refractory, wayic.refractory
+        : join `^^wayic.refractory$`
     regular expression
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     replace
@@ -177,6 +196,8 @@ Wayic index
             : see http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         , term
             : see `^^Waybrec$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        , wayic.Waybrec
+            : join `^^wayic.Waybrec$`
     Waybreccian
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     Waybrec mode
@@ -200,15 +221,28 @@ Wayic index
     wayhead node
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     wayic
-        : see http://reluk.ca/project/wayic/
+        , projects
+            : see http://reluk.ca/project/wayic/
         , purpose of
             : see http://reluk.ca/project/wayic/architec/purpose.brec
         , term
             : see `^^wayic$` @ lexicon.brec
     wayical
         : see @ lexicon.brec
+    wayic.architec
+        : see http://reluk.ca/project/wayic/architec/
+    wayic.cast
+        : see http://reluk.ca/project/wayic/cast/
+    wayic.recast
+        : see http://reluk.ca/project/wayic/recast/
+    wayic.refractory
+        : see http://reluk.ca/project/wayic/refractory/
     wayics
         : see @ lexicon.brec
+    wayic.Waybrec
+        : see http://reluk.ca/project/wayic/Waybrec/
+    wayic.Waybrec.Emacs
+        : see http://reluk.ca/project/wayic/Waybrec/Emacs/
     way model
         : see @ lexicon.brec
     wayscript
