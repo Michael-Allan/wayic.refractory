@@ -12,7 +12,7 @@ Wayic index
     `:`
         : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `@`
-        : see `^^ancestral node indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^ancestral fractum indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^referent document indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `\`
         : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -45,9 +45,9 @@ Wayic index
     block commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     body
-        : see @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    body node
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    body fractum
+        : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     Breccia
         , language
             : see http://reluk.ca/project/Breccia/language_definition.brec
@@ -75,7 +75,7 @@ Wayic index
     certificate of authority
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     child
-        : see `^^• child$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^• child$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     child insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     command point
@@ -99,7 +99,7 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     division
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    document node
+    document fractum
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
@@ -119,7 +119,21 @@ Wayic index
 ╺━━ F ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     formal point
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    fracta
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    fractal
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    fractum
+        , formal unit
+            : see @ http://reluk.ca/project/Breccia/language_definition.brec
+            : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        , term ‘body fractum’
+            : join `^^body fractum$`
+        , term ‘document fractum’
+            : join `^^document fractum$`
+        , term ‘fractum’
+            : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
 
 ╺━━ G ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -131,7 +145,7 @@ Wayic index
 ╺━━ H ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     head
-        : see @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ I ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -164,16 +178,9 @@ Wayic index
 ╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     material point
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     model, term ‘way model’
         : join `^^way model$`
-
-
-╺━━ N ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-    node
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
 
 ╺━━ O ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -189,7 +196,7 @@ Wayic index
 ╺━━ P ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     parent
-        : see `^^• parent$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^• parent$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     pattern matching
@@ -242,7 +249,7 @@ Wayic index
     sibling insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     specialized material point
-        : see `^^typology$` @ `^^ Node$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     static block
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     subjoin
@@ -261,6 +268,14 @@ Wayic index
 
     task point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    thoroughbrec
+        , keyword
+            : see `^^ Thoroughbrec designator$`
+              @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        , term
+            : see `^^thoroughbrec$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    thoroughbrec designator
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
 
 ╺━━ W ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -287,14 +302,11 @@ Wayic index
         : see `^^identifier of a waycaster$` @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         : see `^^waycaster_identifier$` @ `^^certificate of authority$`
           @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
-    wayhead
-        , keyword
-            : see `^^ Wayhead designator$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-        , term
-            : see `^^wayhead$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-    wayhead designator
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    wayhead node
+    wayfracta
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    wayfractal
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    wayfractum
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     wayic
         , projects
