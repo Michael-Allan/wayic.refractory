@@ -2,7 +2,7 @@ Wayic index
 
 
     `!!`
-        : see `^^ Exception point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^ Alarm point$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `$$`
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `+`
@@ -12,8 +12,8 @@ Wayic index
     `:`
         : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `@`
-        : see `^^ancestral fractum indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^referent document indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^ancestor indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^document indicator$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `\`
         : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `^^`
@@ -22,6 +22,8 @@ Wayic index
 
 ╺━━ A ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    alarm point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     append
         : see `^^appendage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     appendage patch
@@ -112,8 +114,6 @@ Wayic index
             : join `^^wayic.Waybrec.Emacs$`
     engagement, term ‘private engagement’
         : join `^^private engagement$`
-    exception point
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ F ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -268,13 +268,17 @@ Wayic index
 
     task point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    thoroughbrec
+    thoroughfracta
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    thoroughfractal
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    thoroughfractum
         , keyword
-            : see `^^ Thoroughbrec designator$`
+            : see `^^ Thoroughfractum designator$`
               @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         , term
-            : see `^^thoroughbrec$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-    thoroughbrec designator
+            : see `^^thoroughfractum$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    thoroughfractum designator
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
 
