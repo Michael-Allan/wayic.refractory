@@ -248,6 +248,10 @@ Wayic index
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    simulacrum
+        : see `^^ Simulacrum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    source code
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     specialized material point
         : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     static block
@@ -336,11 +340,9 @@ Wayic index
     wayic.Waybrec.Emacs
         : see http://reluk.ca/project/wayic/Waybrec/Emacs/
     way model
-        : see @ lexicon.brec
-    wayscript
-        : see @ lexicon.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     waysource
-        : see @ lexicon.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     Web publication
         : see @ http://reluk.ca/project/Breccia/project_installation.brec
     whitespace
