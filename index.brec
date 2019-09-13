@@ -114,6 +114,8 @@ Wayic index
             : join `^^wayic.Waybrec.Emacs$`
     engagement, term ‘private engagement’
         : join `^^private engagement$`
+    execute
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
 
 ╺━━ F ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -240,6 +242,8 @@ Wayic index
         : see `^^replacement patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     replacement patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    runtime
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
 
 ╺━━ S ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
