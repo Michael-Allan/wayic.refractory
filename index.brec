@@ -44,6 +44,8 @@ Wayic index
 
 ╺━━ B ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    blind, term ‘indentation blind’
+        : join `^^indentation blind$`
     block commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     body
@@ -156,6 +158,10 @@ Wayic index
         : join `^^waycaster identifier$`
     inline commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    indentation, term ‘perfect indentation’
+        : join `^^perfect indentation$`
+    indentation blind
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     insertion patch
         , for a child
             : join `^^child insertion patch$`
@@ -264,8 +270,6 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     specialized material point
         : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    static block
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     subjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
             \ thence ‘subjoint’
