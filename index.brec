@@ -113,7 +113,7 @@ Wayic index
         , Breccia.Emacs
             : join `^^Breccia.Emacs$`
         , Waybrec.Emacs
-            : join `^^wayic.Waybrec.Emacs$`
+            : join `^^Waybrec.Emacs$`
     engagement, term ‘private engagement’
         : join `^^private engagement$`
     execute
@@ -307,12 +307,14 @@ Wayic index
     Waybrec
         , language
             : see http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        , project
+            : see http://reluk.ca/project/wayic/Waybrec/
         , term
             : see `^^Waybrec$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-        , wayic.Waybrec
-            : join `^^wayic.Waybrec$`
     Waybreccian
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    Waybrec.Emacs
+        : see http://reluk.ca/project/wayic/Waybrec/Emacs/
     Waybrec mode
         : see http://reluk.ca/project/wayic/Waybrec/Emacs/
     waycast
@@ -349,10 +351,6 @@ Wayic index
         : see http://reluk.ca/project/wayic/refractory/
     wayics
         : see @ lexicon.brec
-    wayic.Waybrec
-        : see http://reluk.ca/project/wayic/Waybrec/
-    wayic.Waybrec.Emacs
-        : see http://reluk.ca/project/wayic/Waybrec/Emacs/
     way model
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     waysource
