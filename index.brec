@@ -59,6 +59,8 @@ Wayic index
             : see http://reluk.ca/project/Breccia/
         , term
             : see `^^Breccia$` @ http://reluk.ca/project/Breccia/lexicon.brec
+    Breccia.browsable
+        : see http://reluk.ca/project/Breccia/browsable/
     Breccia.Emacs
         : see http://reluk.ca/project/Breccia/Emacs/
     Breccia mode
@@ -156,6 +158,8 @@ Wayic index
 
     identifier, of waycaster
         : join `^^waycaster identifier$`
+    image, term ‘Web image’
+        : join `^^Web image$`
     inline commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     indentation, term ‘perfect indentation’
@@ -355,6 +359,10 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     waysource
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    Web
+        : see http://reluk.ca/project/Web/
+    Web image
+        : see http://reluk.ca/project/Web/lexicon.brec
     Web publication
         : see @ http://reluk.ca/project/Breccia/project_installation.brec
     whitespace
