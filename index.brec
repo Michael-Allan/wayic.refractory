@@ -7,6 +7,8 @@ Wayic index
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `+`
         : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    .brec
+        : see `Filename extension` @ http://reluk.ca/project/Breccia/README.html
     `/`
         : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `:`
@@ -52,6 +54,8 @@ Wayic index
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     body fractum
         : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    brec, filename extension `.brec`
+        : join `^^.brec$`
     Breccia
         , language
             : see http://reluk.ca/project/Breccia/language_definition.brec
