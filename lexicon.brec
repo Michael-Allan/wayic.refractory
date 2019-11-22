@@ -1,6 +1,6 @@
 Definition of terms for project wayic.refractory
 
-    private \ Oft used in the wayic and easily misunderstood.
+    private \ Often used in the wayic and easily misunderstood.
         / Private does not mean secret.
         / Private and public are not always opposites.
             : see `^^2.+in open view` @ https://www.lexico.com/en/definition/public
