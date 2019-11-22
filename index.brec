@@ -235,6 +235,8 @@ Wayic index
         : see @ lexicon.brec
     private engagement
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+    private referent
+        : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     publication, to Web
         : join `^^Web publication$`
 
@@ -248,6 +250,8 @@ Wayic index
             : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
         , wayic.recast
             : join `^^wayic.recast$`
+    referent, term ‘private referent’
+        : join `^^private referent$`
     refractory, wayic.refractory
         : join `^^wayic.refractory$`
     regular expression
