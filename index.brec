@@ -315,7 +315,7 @@ Wayic index
 ╺━━ W ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     way
-        : see @ lexicon.brec
+        : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     Waybrec
         , language
             : see http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -350,9 +350,9 @@ Wayic index
         , purpose of
             : see http://reluk.ca/project/wayic/architec/purpose.brec
         , term
-            : see `^^wayic$` @ lexicon.brec
+            : see `^^wayic$` @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     wayical
-        : see @ lexicon.brec
+        : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     wayic.architec
         : see http://reluk.ca/project/wayic/architec/
     wayic.cast
@@ -362,7 +362,7 @@ Wayic index
     wayic.refractory
         : see http://reluk.ca/project/wayic/refractory/
     wayics
-        : see @ lexicon.brec
+        : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     way model
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     waysource

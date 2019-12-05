@@ -5,23 +5,6 @@ Definition of terms for project wayic.refractory
         / Private and public are not always opposites.
             : see `^^2.+in open view` @ https://www.lexico.com/en/definition/public
         : join @ https://www.lexico.com/en/definition/private
-    way
-        ─ noun
-            - A personal goal, especially a final or endmost goal, and the chosen means of achieving it.
-    wayic
-        ─ noun
-            - A methodology or system of way formation.
-        ─ adjective
-            - Concerning ways or way formation.
-    wayical
-        ─ adjective
-            : join @ `^^wayic$`
-    wayics
-        ─ plural noun
-            ─ treated as singular
-                - The branch of knowledge dealing with ways and way formation.
-            ─ treated as the plural of ‘wayic’
-                : see `^^─ noun$` @ `^^wayic$`
 
 
                                         \ Copyright © 2019, Michael Allan and contributors.  Licence MIT.
