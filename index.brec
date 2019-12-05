@@ -129,8 +129,23 @@ Wayic index
 
 ╺━━ F ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    F
+        , form
+            : join `^^form F$`
+        , right to
+            : join `^^right to F$`
     formal point
         : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    form F
+        , proto-cast
+            : see http://reluk.ca/project/proto-waycast/moral_forms.xht#F
+        , term
+            : see `^^form F$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
+    form G
+        , proto-cast
+            : see http://reluk.ca/project/proto-waycast/moral_forms.xht#G
+        , term
+            : see `^^form G$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
     fracta
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     fractal
@@ -149,6 +164,11 @@ Wayic index
 
 ╺━━ G ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    G
+        , form
+            : join `^^form G$`
+        , right to
+            : join `^^right to G$`
     generic point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -157,6 +177,8 @@ Wayic index
 
     head
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    human rights
+        : see @ http://reluk.ca/project/waycast/ethics/lexicon.brec
 
 
 ╺━━ I ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -261,6 +283,25 @@ Wayic index
         : see `^^replacement patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     replacement patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    right
+        , proto-cast
+            : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right
+        , term
+            : see `^^right$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
+    rightful
+        : see @ http://reluk.ca/project/waycast/ethics/lexicon.brec
+    rights
+        : see @ http://reluk.ca/project/waycast/ethics/lexicon.brec
+    right to F
+        , proto-cast
+            : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right_to_F
+        , term
+            : see `^^right to F$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
+    right to G
+        , proto-cast
+            : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right_to_G
+        , term
+            : see `^^right to G$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
     runtime
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
@@ -376,6 +417,13 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/project_installation.brec
     whitespace
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    wrong
+        , proto-cast
+            : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#wrong
+        , term
+            : see `^^wrong$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
+    wrongful
+        : see @ http://reluk.ca/project/waycast/ethics/lexicon.brec
 
 
 
