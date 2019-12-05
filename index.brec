@@ -30,12 +30,13 @@ Wayic index
         : see `^^appendage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     appendage patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    architec, wayic.architec
-        : join `^^wayic.architec$`
     architectonic
-        : see @ http://reluk.ca/project/wayic/architec/lexicon.brec
+        , of the wayic
+            : join `^^, architectonic of$` @ `^^wayic$`
+        , term
+            : see `^^architectonic$` @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     architecture
-        : see @ http://reluk.ca/project/wayic/architec/lexicon.brec
+        : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     aside point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference
@@ -345,16 +346,16 @@ Wayic index
     wayfractum
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     wayic
+        , architectonic of
+            : see `^^architectonic$` http://reluk.ca/project/waycast/wayics/wayic.brec
+        , cast
+            : see http://reluk.ca/project/waycast/wayics/wayic.brec
         , projects
             : see http://reluk.ca/project/wayic/
-        , purpose of
-            : see http://reluk.ca/project/wayic/architec/purpose.brec
         , term
             : see `^^wayic$` @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     wayical
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
-    wayic.architec
-        : see http://reluk.ca/project/wayic/architec/
     wayic.cast
         : see http://reluk.ca/project/wayic/cast/
     wayic.recast
