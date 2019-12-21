@@ -7,8 +7,6 @@ Wayic index
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `+`
         : see `^^ Task point$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    .brec
-        : see `Filename extension` @ http://reluk.ca/project/Breccia/README.html
     `/`
         : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `:`
@@ -55,8 +53,8 @@ Wayic index
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     body fractum
         : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    brec, filename extension `.brec`
-        : join `^^.brec$`
+    .brec
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     Breccia
         , language
             : see http://reluk.ca/project/Breccia/language_definition.brec
@@ -64,14 +62,14 @@ Wayic index
             : see http://reluk.ca/project/Breccia/
         , term
             : see `^^Breccia$` @ http://reluk.ca/project/Breccia/lexicon.brec
-    Breccia.browsable
-        : see http://reluk.ca/project/Breccia/browsable/
     Breccia.Emacs
         : see http://reluk.ca/project/Breccia/Emacs/
     Breccia mode
         : see http://reluk.ca/project/Breccia/Emacs/Breccia_mode.el
     Breccian
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    Breccia.Web.imager
+        : see http://reluk.ca/project/Breccia/Web/imager/
     bullet
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
