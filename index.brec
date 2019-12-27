@@ -123,6 +123,8 @@ Wayic index
         : join `^^private engagement$`
     execute
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    extracast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
 
 ╺━━ F ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -196,6 +198,8 @@ Wayic index
             : join `^^child insertion patch$`
         , for a sibling
             : join `^^sibling insertion patch$`
+    intracast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
 
 ╺━━ J ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
