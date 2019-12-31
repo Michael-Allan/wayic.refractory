@@ -34,7 +34,10 @@ Wayic index
         , term
             : see `^^architectonic$` @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     architecture
-        : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
+        , of the wayic
+            : join `^^, architecture of$` @ `^^wayic$`
+        , term
+            : see `^^architecture$` @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     aside point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference
@@ -391,10 +394,14 @@ Wayic index
     wayic
         , architectonic of
             : see http://reluk.ca/project/waycast/wayics/architectonic.brec
+        , architecture of
+            : see http://reluk.ca/project/waycast/wayics/architecture.brec
         , cast
             : see http://reluk.ca/project/waycast/wayics/
         , projects
             : see http://reluk.ca/project/wayic/
+        , purpose of
+            : see http://reluk.ca/project/waycast/wayics/purpose.brec
         , term
             : see `^^wayic$` @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     wayical
