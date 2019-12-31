@@ -133,19 +133,19 @@ Wayic index
 ╺━━ F ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     F
-        , form
+        , form of
             : join `^^form F$`
         , right to
             : join `^^right to F$`
     formal point
         : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     form F
-        , proto-cast
+        , proto-cast of
             : see http://reluk.ca/project/proto-waycast/moral_forms.xht#F
         , term
             : see `^^form F$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
     form G
-        , proto-cast
+        , proto-cast of
             : see http://reluk.ca/project/proto-waycast/moral_forms.xht#G
         , term
             : see `^^form G$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
@@ -168,7 +168,7 @@ Wayic index
 ╺━━ G ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     G
-        , form
+        , form of
             : join `^^form G$`
         , right to
             : join `^^right to G$`
@@ -289,7 +289,7 @@ Wayic index
     replacement patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     right
-        , proto-cast
+        , proto-cast of
             : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right
         , term
             : see `^^right$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
@@ -298,12 +298,12 @@ Wayic index
     rights
         : see @ http://reluk.ca/project/waycast/ethics/lexicon.brec
     right to F
-        , proto-cast
+        , proto-cast of
             : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right_to_F
         , term
             : see `^^right to F$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
     right to G
-        , proto-cast
+        , proto-cast of
             : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right_to_G
         , term
             : see `^^right to G$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
@@ -377,7 +377,7 @@ Wayic index
     Waybrec mode
         : see http://reluk.ca/project/wayic/Waybrec/Emacs/
     waycast
-        , form
+        , form of
             : see http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         , term
             : see `^^waycast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
@@ -396,9 +396,9 @@ Wayic index
             : see http://reluk.ca/project/waycast/wayics/architectonic.brec
         , architecture of
             : see http://reluk.ca/project/waycast/wayics/architecture.brec
-        , cast
+        , cast of
             : see http://reluk.ca/project/waycast/wayics/
-        , projects
+        , projects of
             : see http://reluk.ca/project/wayic/
         , purpose of
             : see http://reluk.ca/project/waycast/wayics/purpose.brec
@@ -427,7 +427,7 @@ Wayic index
     whitespace
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     wrong
-        , proto-cast
+        , proto-cast of
             : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#wrong
         , term
             : see `^^wrong$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
