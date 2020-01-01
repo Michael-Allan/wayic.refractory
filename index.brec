@@ -280,8 +280,8 @@ Wayic index
     recast
         , term
             : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
-        , wayic.recast
-            : join `^^wayic.recast$`
+        , wayic.recast.kit
+            : join `^^wayic.recast.kit$`
     referent, term ‘private referent’
         : join `^^private referent$`
     refractory, wayic.refractory
@@ -416,8 +416,8 @@ Wayic index
         : see http://reluk.ca/project/wayic/cast/
     wayic.code
         : see http://reluk.ca/project/wayic/code/
-    wayic.recast
-        : see http://reluk.ca/project/wayic/recast/
+    wayic.recast.kit
+        : see http://reluk.ca/project/wayic/recast/kit/
     wayic.refractory
         : see http://reluk.ca/project/wayic/refractory/
     wayics
