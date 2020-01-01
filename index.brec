@@ -90,6 +90,10 @@ Wayic index
         : see `^^• child$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     child insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    code, wayic.code
+        : join `^^wayic.code$`
+    code of practice
+        : join `^^, code of practice$` @ `^^wayic$`
     command point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -398,6 +402,8 @@ Wayic index
             : see http://reluk.ca/project/waycast/wayics/architecture.brec
         , cast of
             : see http://reluk.ca/project/waycast/wayics/
+        , code of practice
+            : see http://reluk.ca/project/wayic/code/
         , projects of
             : see http://reluk.ca/project/wayic/
         , purpose of
@@ -408,6 +414,8 @@ Wayic index
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     wayic.cast
         : see http://reluk.ca/project/wayic/cast/
+    wayic.code
+        : see http://reluk.ca/project/wayic/code/
     wayic.recast
         : see http://reluk.ca/project/wayic/recast/
     wayic.refractory
