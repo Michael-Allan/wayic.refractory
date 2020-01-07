@@ -126,8 +126,8 @@ Wayic index
             : join `^^Breccia.Emacs$`
         , Waybrec.Emacs
             : join `^^Waybrec.Emacs$`
-    engagement, term ‘private engagement’
-        : join `^^private engagement$`
+    engagement, term ‘way engagement’
+        : join `^^way engagement$`
     execute
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     extracast
@@ -265,8 +265,6 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     private
         : see @ lexicon.brec
-    private engagement
-        : see @ http://reluk.ca/project/wayic/Waybrec/action_plan.brec \ Pending final definition.
     publication, to Web
         : join `^^Web publication$`
 
@@ -417,6 +415,8 @@ Wayic index
     wayic.refractory
         : see http://reluk.ca/project/wayic/refractory/
     wayics
+        : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
+    way engagement
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     way model
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
