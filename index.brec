@@ -263,8 +263,6 @@ Wayic index
         : see `^^prependage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     prependage patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    private
-        : see @ lexicon.brec
     publication, to Web
         : join `^^Web publication$`
 
