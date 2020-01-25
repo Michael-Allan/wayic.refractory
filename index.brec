@@ -126,8 +126,11 @@ Wayic index
             : join `^^Breccia.Emacs$`
         , Waybrec.Emacs
             : join `^^Waybrec.Emacs$`
-    engagement, term ‘way engagement’
-        : join `^^way engagement$`
+    engagement
+        , term ‘way engagement’
+            : join `^^way engagement$`
+        , term ‘way engagement point’
+            : join `^^way engagement point$`
     execute
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     extracast
@@ -166,8 +169,6 @@ Wayic index
             : join `^^document fractum$`
         , term ‘fractum’
             : see @ http://reluk.ca/project/Breccia/lexicon.brec
-        , term ‘private fractum’
-            : join `^^private fractum$`
 
 
 ╺━━ G ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -265,10 +266,9 @@ Wayic index
         : see `^^prependage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     prependage patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    private fractum
+    private
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-    privately
+    privately, formal unit
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     privatizer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -425,6 +425,8 @@ Wayic index
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     way engagement
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
+    way engagement point
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     way model
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     waysource
