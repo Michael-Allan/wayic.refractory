@@ -22,6 +22,8 @@ Wayic index
 
 ╺━━ A ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    aimed way of life
+        : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     alarm point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     append
@@ -105,6 +107,8 @@ Wayic index
 
 ╺━━ D ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    declaration, term ‘way declaration’
+        : join `^^way declaration$`
     delete
         : see `^^deletion patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     deletion patch
@@ -194,7 +198,7 @@ Wayic index
 
 ╺━━ I ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    identifier, of waycaster
+    identifier, term ‘waycaster identifier’
         : join `^^waycaster identifier$`
     image, term ‘Web image’
         : join `^^Web image$`
@@ -280,7 +284,7 @@ Wayic index
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     privatizer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    publication, to Web
+    publication, term ‘Web publication’
         : join `^^Web publication$`
 
 
@@ -374,8 +378,8 @@ Wayic index
 
 ╺━━ W ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    way
-        : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
+    way, term ‘aimed way of life’
+        : join `^^aimed way of life$`
     Waybrec
         , language
             : see http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -398,6 +402,8 @@ Wayic index
         : see `^^identifier of a waycaster$` @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         : see `^^waycaster_identifier$` @ `^^certificate of authority$`
           @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+    way declaration
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
     wayfracta
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     wayfractal
@@ -437,6 +443,8 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     way model
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+    way of life, aimed
+        : join `^^aimed way of life$`
     waysource
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     Web
