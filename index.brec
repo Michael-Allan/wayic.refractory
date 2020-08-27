@@ -295,9 +295,9 @@ Wayic index
             : join `^^general project-installation directory$`
         , for a specific project
             : join `^^specific project-installation directory$`
-    `PROJECT`
+    PROJECT
         : see @ http://reluk.ca/project/building/lexicon.brec
-    `PROJECTS`
+    PROJECTS
         : see @ http://reluk.ca/project/building/lexicon.brec
     publication, term ‘Web publication’
         : join `^^Web publication$`
