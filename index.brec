@@ -100,6 +100,8 @@ Wayic index
         : join `^^wayic.code$`
     code of practice
         : join `^^, code of practice$` @ `^^wayic$`
+    command directory
+        : see @ http://reluk.ca/project/building/lexicon.brec
     command point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -119,6 +121,8 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     descriptor
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    directory, term ‘command directory’
+        : join `^^command directory$`
     divider
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     division
@@ -186,8 +190,6 @@ Wayic index
             : join `^^form G$`
         , right to
             : join `^^right to G$`
-    general project-installation directory
-        : see @ http://reluk.ca/project/building/lexicon.brec
     generic point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -264,10 +266,14 @@ Wayic index
 
 ╺━━ P ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    package, term ‘proper package’
+        : join `^^proper package`
     parent
         : see `^^• parent$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    path, term ‘proper path’
+        : join `^^proper path`
     pattern matching
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     perfect indentation
@@ -290,14 +296,9 @@ Wayic index
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     privatizer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    project-installation directory
-        , for projects in general
-            : join `^^general project-installation directory$`
-        , for a specific project
-            : join `^^specific project-installation directory$`
-    PROJECT
+    proper package, of a project
         : see @ http://reluk.ca/project/building/lexicon.brec
-    PROJECTS
+    proper path, of a project
         : see @ http://reluk.ca/project/building/lexicon.brec
     publication, term ‘Web publication’
         : join `^^Web publication$`
@@ -361,8 +362,6 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     specialized material point
         : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    specific project-installation directory
-        : see @ http://reluk.ca/project/building/lexicon.brec
     subjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
             \ thence ‘subjoint’
