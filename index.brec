@@ -267,13 +267,13 @@ Wayic index
 ╺━━ P ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     package, term ‘proper package’
-        : join `^^proper package`
+        : join `^^proper package$`
     parent
         : see `^^• parent$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     path, term ‘proper path’
-        : join `^^proper path`
+        : join `^^proper path$`
     pattern matching
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     perfect indentation
@@ -296,9 +296,9 @@ Wayic index
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     privatizer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    proper package, of a project
-        : see @ http://reluk.ca/project/building/lexicon.brec
-    proper path, of a project
+    proper package
+        : see `^^proper package, of a project$` @ http://reluk.ca/project/building/lexicon.brec
+    proper path
         : see @ http://reluk.ca/project/building/lexicon.brec
     publication, term ‘Web publication’
         : join `^^Web publication$`
