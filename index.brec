@@ -224,6 +224,8 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘postgap’
             : re `‘(.+)’` join same
+    genealogy of the wayic
+        : see genealogy_of_the_wayic.xht
 
 
 ╺━━ H ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -599,6 +601,8 @@ Wayic index
             : see http://reluk.ca/project/waycast/wayic/architecture.brec
         , cast of
             : see http://reluk.ca/project/waycast/wayic/
+        , genealogy of
+            : join `^^genealogy of the wayic$`
         , projects of
             : see http://reluk.ca/project/wayic/
         , purpose of
