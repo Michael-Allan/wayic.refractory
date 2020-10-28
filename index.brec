@@ -64,42 +64,33 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     Breccia
         , language
-            : see http://reluk.ca/project/Breccia/language_definition.brec
-        , project
             : see http://reluk.ca/project/Breccia/
         , term
             : see `^^Breccia$` @ http://reluk.ca/project/Breccia/lexicon.brec
-    Breccia.Emacs
+        , Web imager
+            : join `^^, Breccia` @ `^^Web imager$`
+    Breccia Mode for Emacs
         : see http://reluk.ca/project/Breccia/Emacs/
-    Breccia Mode
-        : see http://reluk.ca/project/Breccia/Emacs/breccia_mode.el
     Breccian
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    Breccia.Web.imager
-        : see http://reluk.ca/project/Breccia/Web/imager/
+    builder, Javanese Builder
+        : join `^^Javanese Builder$`
     bullet
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    building
-        : see http://reluk.ca/project/building/
 
 
 ╺━━ C ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     cast
-        , term
-            : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
-        , wayic.cast
-            : join `^^wayic.cast$`
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
     certificate of authority
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     child
         : see `^^• child$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     child insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    code, wayic.code
-        : join `^^wayic.code$`
-    code of practice
-        : join `^^, code of practice$` @ `^^wayic$`
+    code, Wayic Code
+        : join `^^Wayic Code$`
     command directory
         : see @ http://reluk.ca/project/building/lexicon.brec
     command point
@@ -134,10 +125,10 @@ Wayic index
 ╺━━ E ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     Emacs
-        , Breccia.Emacs
-            : join `^^Breccia.Emacs$`
-        , Waybrec.Emacs
-            : join `^^Waybrec.Emacs$`
+        , Breccia Mode for Emacs
+            : join `^^Breccia Mode for Emacs$`
+        , Waybrec Mode for Emacs
+            : join `^^Waybrec Mode for Emacs$`
     engagement
         , term ‘way engagement’
             : join `^^way engagement$`
@@ -227,11 +218,19 @@ Wayic index
 
 ╺━━ J ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    Javanese Builder
+        : see http://reluk.ca/project/building/Javanese/
     join
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+
+
+╺━━ K ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    kit, recast kit
+        : join `^^recast kit$`
 
 
 ╺━━ L ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -244,6 +243,11 @@ Wayic index
 
     material point
         : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    mode
+        , Breccia Mode for Emacs
+            : join `^^Breccia Mode for Emacs$`
+        , Waybrec Mode for Emacs
+            : join `^^Waybrec Mode for Emacs$`
     model, term ‘way model’
         : join `^^way model$`
 
@@ -309,12 +313,11 @@ Wayic index
     re
         : see `^^referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     recast
-        , term
-            : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
-        , wayic.recast.kit
-            : join `^^wayic.recast.kit$`
-    refractory, wayic.refractory
-        : join `^^wayic.refractory$`
+        : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
+    recast kit
+        : see http://reluk.ca/project/wayic/recast/kit/
+    refractory, Wayic Refractory
+        : join `^^Wayic Refractory$`
     regular expression
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     replace
@@ -399,21 +402,23 @@ Wayic index
     Waybrec
         , language
             : see http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-        , project
-            : see http://reluk.ca/project/wayic/Waybrec/
         , term
             : see `^^Waybrec$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        , Web imager
+            : join `^^, waycast$` @ `^^Web imager$`
     Waybreccian
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-    Waybrec.Emacs
-        : see http://reluk.ca/project/wayic/Waybrec/Emacs/
-    Waybrec Mode
+    Waybrec Mode for Emacs
         : see http://reluk.ca/project/wayic/Waybrec/Emacs/
     waycast
         , form of
             : see http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+        , project
+            : see http://reluk.ca/project/wayic/cast/
         , term
             : see `^^waycast$` @ http://reluk.ca/project/wayic/cast/lexicon.brec
+        , Web imager
+            : join `^^, waycast$` @ `^^Web imager$`
     waycaster identifier
         : see `^^identifier of a waycaster$` @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         : see `^^waycaster_identifier$` @ `^^certificate of authority$`
@@ -433,8 +438,6 @@ Wayic index
             : see http://reluk.ca/project/waycast/wayics/architecture.brec
         , cast of
             : see http://reluk.ca/project/waycast/wayics/
-        , code of practice
-            : see http://reluk.ca/project/wayic/code/
         , projects of
             : see http://reluk.ca/project/wayic/
         , purpose of
@@ -443,18 +446,12 @@ Wayic index
             : see `^^wayic$` @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     wayical
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
-    wayic.cast
-        : see http://reluk.ca/project/wayic/cast/
-    wayic.code
+    Wayic Code
         : see http://reluk.ca/project/wayic/code/
-    wayic.recast.kit
-        : see http://reluk.ca/project/wayic/recast/kit/
-    wayic.refractory
+    Wayic Refractory
         : see http://reluk.ca/project/wayic/refractory/
     wayics
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
-    wayic.Web.imager
-        : see http://reluk.ca/project/wayic/Web/imager/
     way engagement
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     way engagement point
@@ -465,10 +462,13 @@ Wayic index
         : join `^^aimed way of life$`
     waysource
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-    Web
-        : see http://reluk.ca/project/Web/
     Web image
         : see http://reluk.ca/project/Web/lexicon.brec
+    Web imager
+        , Breccia
+            : see http://reluk.ca/project/Breccia/Web/imager/
+        , waycast
+            : see http://reluk.ca/project/wayic/Web/imager/
     Web publication
         : see @ http://reluk.ca/project/Breccia/project_installation.brec
     whitespace
