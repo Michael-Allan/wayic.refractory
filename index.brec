@@ -199,6 +199,8 @@ Wayic index
         : join `^^waycaster identifier$`
     image, term ‘Web image’
         : join `^^Web image$`
+    image production set
+        : see http://reluk.ca/project/Breccia/Web/imager/lexicon.brec
     inline commentary
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     indentation, term ‘perfect indentation’
@@ -298,6 +300,8 @@ Wayic index
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     privatizer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    production, term ‘image production set’
+        : join `^^image production set$`
     proper package
         : see `^^proper package, of a project$` @ http://reluk.ca/project/building/lexicon.brec
     proper path
@@ -349,6 +353,8 @@ Wayic index
 
     see
         : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    set, term ‘image production set’
+        : join `^^image production set$`
     sibling insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     simulacra
