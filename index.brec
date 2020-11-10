@@ -12,7 +12,7 @@ Wayic index
     `:`
         : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `>`
-        : see @ http://reluk.ca/project/building/lexicon.brec
+        : see @ http://reluk.ca/project/editing/lexicon.brec
     `@`
         : see `^^ancestor qualification$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^document qualification$` @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -90,7 +90,7 @@ Wayic index
     code, Wayic Code
         : join `^^Wayic Code$`
     command directory
-        : see @ http://reluk.ca/project/building/lexicon.brec
+        : see @ http://reluk.ca/project/lexicon.brec
     command point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -303,9 +303,9 @@ Wayic index
     production, term ‘image production set’
         : join `^^image production set$`
     proper package
-        : see `^^proper package, of a project$` @ http://reluk.ca/project/building/lexicon.brec
+        : see `^^proper package, of a project$` @ http://reluk.ca/project/lexicon.brec
     proper path
-        : see @ http://reluk.ca/project/building/lexicon.brec
+        : see @ http://reluk.ca/project/lexicon.brec
     publication, term ‘Web publication’
         : join `^^Web publication$`
 
