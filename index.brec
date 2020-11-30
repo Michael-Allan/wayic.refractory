@@ -17,7 +17,7 @@ Wayic index
         : see `^^ancestor qualification$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^document qualification$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `\`
-        : see `^^ Commentary$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^ Comment carrier$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `^^`
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -28,6 +28,10 @@ Wayic index
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     alarm point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    also, command `see also`
+        : join `^^see also$`
+    ancestor, of a body fractum
+        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     append
         : see `^^appendage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     appendage patch
@@ -48,18 +52,18 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     authority, certificate of
         : join `^^certificate of authority$`
+    autoprivatizer
+        : see  @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ B ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     blind, term ‘indentation blind’
         : join `^^indentation blind$`
-    block commentary
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     body
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     body fractum
-        : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
     .brec
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     Breccia
@@ -79,12 +83,17 @@ Wayic index
 
 ╺━━ C ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    carrier, term ‘comment carrier’
+        : join `^^comment carrier$`
     cast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
     certificate of authority
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
-    child
-        : see `^^• child$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    cf.
+        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
+    child, of a fractum
+        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     child insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     code, Wayic Code
@@ -94,10 +103,8 @@ Wayic index
     command point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    commentary
+    comment carrier
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    comment block
-        : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
 
 ╺━━ D ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -108,6 +115,8 @@ Wayic index
         : see `^^deletion patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     deletion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    descendant, of a fractum
+        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     descriptor
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     directory, term ‘command directory’
@@ -122,6 +131,9 @@ Wayic index
 
 ╺━━ E ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    e.g.
+        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     Emacs
         , Breccia Mode for Emacs
             : join `^^Breccia Mode for Emacs$`
@@ -145,8 +157,8 @@ Wayic index
             : join `^^form F$`
         , right to
             : join `^^right to F$`
-    formal point
-        : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    formal, of a fractal type
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     form F
         , proto-cast of
             : see http://reluk.ca/project/proto-waycast/moral_forms.xht#F
@@ -187,6 +199,10 @@ Wayic index
 
     head
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    hierarchical order
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    hierarchy
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     human rights
         : see @ http://reluk.ca/project/waycast/ethics/lexicon.brec
     hyperlink referrer
@@ -197,16 +213,19 @@ Wayic index
 
     identifier, term ‘waycaster identifier’
         : join `^^waycaster identifier$`
+    i.e.
+        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     image, term ‘Web image’
         : join `^^Web image$`
     image production set
         : see http://reluk.ca/project/Breccia/Web/imager/lexicon.brec
-    inline commentary
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     indentation, term ‘perfect indentation’
         : join `^^perfect indentation$`
     indentation blind
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    informal
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     insertion patch
         , for a child
             : join `^^child insertion patch$`
@@ -219,7 +238,8 @@ Wayic index
 ╺━━ J ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     join
-        : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -241,8 +261,6 @@ Wayic index
 
     Makeshift
         : see http://reluk.ca/project/building/Makeshift/
-    material point
-        : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     mode
         , Breccia Mode for Emacs
             : join `^^Breccia Mode for Emacs$`
@@ -254,6 +272,12 @@ Wayic index
 
 ╺━━ N ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    NB
+        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
+    N.B.
+        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     nominate
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
 
@@ -264,16 +288,21 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     on-way
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-    order, term ‘linear order’
-        : join `^^linear order$`
+    order
+        , hierarchical ‘linear order’
+            : join `^^hierarchical order$`
+        , term ‘linear order’
+            : join `^^linear order$`
 
 
 ╺━━ P ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     package, term ‘proper package’
         : join `^^proper package$`
-    parent
-        : see `^^• parent$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    parent, of a body fractum
+        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    parental privatizer
+        : see  @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     path, term ‘proper path’
@@ -296,10 +325,17 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     private
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    privately, formal unit
-        : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see same term @ `descriptor .+ form:$` @ `^^ Parental privatizer$`
+          @ http://reluk.ca/project/Breccia/lexicon.brec
+    privately
+        : see same term @ `descriptor .+ form:$` @ `^^ Autoprivatizer$`
+          @ http://reluk.ca/project/Breccia/lexicon.brec
     privatizer
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        , term ‘autoprivatizer’
+            : join `^^autoprivatizer$`
+        , term ‘parental privatizer’
+            : join `^^parental privatizer$`
     production, term ‘image production set’
         : join `^^image production set$`
     proper package
@@ -313,7 +349,7 @@ Wayic index
 ╺━━ R ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     re
-        : see `^^referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^ referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     recast
         : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
     recast kit
@@ -345,6 +381,8 @@ Wayic index
             : see http://reluk.ca/project/proto-waycast/normative_ethic.xht#right_to_G
         , term
             : see `^^right to G$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
+    run
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     runtime
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
@@ -352,9 +390,15 @@ Wayic index
 ╺━━ S ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     see
-        : see `^^referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
+    see also
+        : see `‘NB’.+‘(see)’.+ gap .+‘(also)’` @ `includes a referential command`
+          @ `^^ imperative clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     set, term ‘image production set’
         : join `^^image production set$`
+    sibling, of a body fractum
+        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     simulacra
@@ -367,8 +411,6 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     source code
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    specialized material point
-        : see `^^typology$` @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     subjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
             \ thence ‘subjoint’
@@ -397,6 +439,13 @@ Wayic index
             : see `^^thoroughfractum$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     thoroughfractum designator
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+
+
+╺━━ V ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    viz.
+        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ W ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
