@@ -458,11 +458,9 @@ Wayic index
     thoroughfractal
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     thoroughfractum
-        , keyword
-            : see `^^ Thoroughfractum designator$`
-              @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-        , term
-            : see `^^thoroughfractum$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see same term @ `descriptor .+ form:$` @ `^^ Thoroughfractum designator$`
+          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     thoroughfractum designator
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
