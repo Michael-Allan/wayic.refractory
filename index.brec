@@ -436,7 +436,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     subjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-            \ thence ‘subjoint’
+    subjoint
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     succeed
         : see same term @ `descriptor .+ form:$` @ `^^succession patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -445,7 +446,8 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     surjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-            \ thence ‘surjoint’
+    surjoint
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
 
 ╺━━ T ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
