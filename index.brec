@@ -34,7 +34,8 @@ Wayic index
     ancestor, of a body fractum
         : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     append
-        : see `^^appendage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        : see same term @ `descriptor .+ form:$` @ `^^appendage patch$`
+          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     appendage patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -118,7 +119,8 @@ Wayic index
     declaration, term ‘way declaration’
         : join `^^way declaration$`
     delete
-        : see `^^deletion patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        : see same term @ `descriptor .+ form:$` @ `^^deletion patch$`
+          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     deletion patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -330,12 +332,14 @@ Wayic index
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     precede
-        : see `^^precession patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        : see same term @ `descriptor .+ form:$` @ `^^precession patch$`
+          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     precession patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     prepend
-        : see `^^prependage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        : see same term @ `descriptor .+ form:$` @ `^^prependage patch$`
+          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     prependage patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -375,7 +379,8 @@ Wayic index
     regular expression
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     replace
-        : see `^^replacement patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        : see same term @ `descriptor .+ form:$` @ `^^replacement patch$`
+          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     replacement patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -433,7 +438,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
             \ thence ‘subjoint’
     succeed
-        : see `^^succession patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        : see same term @ `descriptor .+ form:$` @ `^^succession patch$`
+          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     succession patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
