@@ -27,6 +27,7 @@ Wayic index
     aimed way of life
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     alarm point
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     also, command `see also`
         : join `^^see also$`
@@ -35,6 +36,7 @@ Wayic index
     append
         : see `^^appendage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     appendage patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     architectonic
         , of the wayic
@@ -47,8 +49,10 @@ Wayic index
         , term
             : see `^^architecture$` @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     aside point
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     authority, certificate of
         : join `^^certificate of authority$`
@@ -95,14 +99,16 @@ Wayic index
     child, of a fractum
         : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     child insertion patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     code, Wayic Code
         : join `^^Wayic Code$`
     command directory
         : see @ http://reluk.ca/project/lexicon.brec
     command point
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     comment carrier
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -114,6 +120,7 @@ Wayic index
     delete
         : see `^^deletion patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     deletion patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     descendant, of a fractum
         : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -124,8 +131,10 @@ Wayic index
     divider
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     division
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     document fractum
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
@@ -157,7 +166,7 @@ Wayic index
             : join `^^form F$`
         , right to
             : join `^^right to F$`
-    formal, of a fractal type
+    formal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     form F
         , proto-cast of
@@ -192,6 +201,7 @@ Wayic index
         , right to
             : join `^^right to G$`
     generic point
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
@@ -241,6 +251,7 @@ Wayic index
         : see same term @ `includes a referential command` @ `^^ imperative clause$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
@@ -304,6 +315,7 @@ Wayic index
     parental privatizer
         : see  @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     path, term ‘proper path’
         : join `^^proper path$`
@@ -312,16 +324,20 @@ Wayic index
     perfect indentation
         : see @ `^^ Whitespace$` @ http://reluk.ca/project/Breccia/language_definition.brec
     point
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     pointer
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     precede
         : see `^^precession patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     precession patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     prepend
         : see `^^prependage patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     prependage patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     private
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
@@ -361,6 +377,7 @@ Wayic index
     replace
         : see `^^replacement patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     replacement patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     right
         , proto-cast of
@@ -400,6 +417,7 @@ Wayic index
     sibling, of a body fractum
         : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling insertion patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     simulacra
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
@@ -417,6 +435,7 @@ Wayic index
     succeed
         : see `^^succession patch$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     succession patch
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     surjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
@@ -426,6 +445,7 @@ Wayic index
 ╺━━ T ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     task point
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     thoroughfracta
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
@@ -438,6 +458,7 @@ Wayic index
         , term
             : see `^^thoroughfractum$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     thoroughfractum designator
+        : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
 
