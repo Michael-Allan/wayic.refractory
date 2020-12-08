@@ -230,8 +230,6 @@ Wayic index
           @ http://reluk.ca/project/Breccia/language_definition.brec
     image, term ‘Web image’
         : join `^^Web image$`
-    image production set
-        : see http://reluk.ca/project/Breccia/Web/imager/lexicon.brec
     indentation, term ‘perfect indentation’
         : join `^^perfect indentation$`
     indentation blind
@@ -356,8 +354,6 @@ Wayic index
             : join `^^autoprivatizer$`
         , term ‘parental privatizer’
             : join `^^parental privatizer$`
-    production, term ‘image production set’
-        : join `^^image production set$`
     proper package
         : see `^^proper package, of a project$` @ http://reluk.ca/project/lexicon.brec
     proper path
@@ -417,8 +413,6 @@ Wayic index
     see also
         : see `‘NB’.+‘(see)’.+ gap .+‘(also)’` @ `includes a referential command`
           @ `^^ imperative clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    set, term ‘image production set’
-        : join `^^image production set$`
     sibling, of a body fractum
         : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling insertion patch
