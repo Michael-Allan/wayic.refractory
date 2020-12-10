@@ -82,6 +82,8 @@ Wayic index
         : see http://reluk.ca/project/Breccia/Emacs/
     Breccian
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    Breccia Parser
+        : see http://reluk.ca/project/Breccia/parser/
     bullet
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -484,6 +486,8 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     Waybrec Mode for Emacs
         : see http://reluk.ca/project/wayic/Waybrec/Emacs/
+    Waybrec Parser
+        : see http://reluk.ca/project/wayic/Waybrec/parser/
     waycast
         , form of
             : see http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
