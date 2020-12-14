@@ -32,7 +32,7 @@ Wayic index
     also, command `see also`
         : join `^^see also$`
     ancestor, of a body fractum
-        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     append
         : see same term @ `descriptor .+ form:$` @ `^^appendage patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -100,7 +100,7 @@ Wayic index
         : see same term @ `includes a referential command` @ `^^ imperative clause$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     child, of a fractum
-        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     child insertion patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -127,7 +127,7 @@ Wayic index
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     descendant, of a fractum
-        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     descriptor
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     directory, term ‘command directory’
@@ -213,7 +213,7 @@ Wayic index
 
     head
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    hierarchical order
+    hierarchic order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     hierarchy
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
@@ -302,8 +302,8 @@ Wayic index
     on-way
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     order
-        , hierarchical ‘linear order’
-            : join `^^hierarchical order$`
+        , term ‘hierarchic order’
+            : join `^^hierarchic order$`
         , term ‘linear order’
             : join `^^linear order$`
 
@@ -313,7 +313,7 @@ Wayic index
     package, term ‘proper package’
         : join `^^proper package$`
     parent, of a body fractum
-        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     parental privatizer
         : see  @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
@@ -416,7 +416,7 @@ Wayic index
         : see `‘NB’.+‘(see)’.+ gap .+‘(also)’` @ `includes a referential command`
           @ `^^ imperative clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling, of a body fractum
-        : see @ `^^ hierarchical relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling insertion patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
