@@ -67,6 +67,8 @@ Wayic index
         : join `^^indentation blind$`
     body
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    body segment
+        : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
     body fractum
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
     .brec
@@ -186,6 +188,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     fractal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    fractal segment
+        : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
     fractum
         , formal unit
             : see @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -415,6 +419,11 @@ Wayic index
     see also
         : see `‘NB’.+‘(see)’.+ gap .+‘(also)’` @ `includes a referential command`
           @ `^^ imperative clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    segment
+        , term ‘body segment’
+            : join `^^body segment$`
+        , term ‘fractal segment’
+            : join `^^fractal segment$`
     sibling, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     sibling insertion patch
@@ -563,4 +572,4 @@ Wayic index
 
 
 
-                                                    \ Copyright © 2019-2020  Michael Allan.  Licence MIT.
+                                                    \ Copyright © 2019-2021  Michael Allan.  Licence MIT.
