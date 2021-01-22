@@ -63,8 +63,8 @@ Wayic index
 
 ╺━━ B ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    blind, term ‘indentation blind’
-        : join `^^indentation blind$`
+    blind, term ‘indent blind’
+        : join `^^indent blind$`
     body
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
     body segment
@@ -236,9 +236,9 @@ Wayic index
           @ http://reluk.ca/project/Breccia/language_definition.brec
     image, term ‘Web image’
         : join `^^Web image$`
-    indentation, term ‘perfect indentation’
-        : join `^^perfect indentation$`
-    indentation blind
+    indent, term ‘perfect indent’
+        : join `^^perfect indent$`
+    indent blind
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     informal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
@@ -327,7 +327,7 @@ Wayic index
         : join `^^proper path$`
     pattern matching
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    perfect indentation
+    perfect indent
         : see @ `^^ Whitespace$` @ http://reluk.ca/project/Breccia/language_definition.brec
     point
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
