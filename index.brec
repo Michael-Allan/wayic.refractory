@@ -24,6 +24,8 @@ Wayic index
 
 ╺━━ A ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    abstract
+        : see @ http://reluk.ca/project/lexicon.brec
     aimed way of life
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
     alarm point
@@ -116,6 +118,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     comment carrier
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    concrete
+        : see @ http://reluk.ca/project/lexicon.brec
 
 
 ╺━━ D ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -569,6 +573,12 @@ Wayic index
             : see `^^wrong$` @ http://reluk.ca/project/waycast/ethics/lexicon.brec
     wrongful
         : see @ http://reluk.ca/project/waycast/ethics/lexicon.brec
+
+
+╺━━ X ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    X-Breccia
+        : see @ http://reluk.ca/project/Breccia/XML/lexicon.brec
 
 
 
