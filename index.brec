@@ -103,7 +103,7 @@ Wayic index
     certificate of authority
         : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     cf.
-        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+        : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     child, of a fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -137,7 +137,8 @@ Wayic index
     descendant, of a fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     descriptor
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^document descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^point descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
     directory, term ‘command directory’
         : join `^^command directory$`
     divider
@@ -153,7 +154,7 @@ Wayic index
 ╺━━ E ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     e.g.
-        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+        : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     Emacs
         , Breccia Mode for Emacs
@@ -238,7 +239,7 @@ Wayic index
     identifier, term ‘waycaster identifier’
         : join `^^waycaster identifier$`
     i.e.
-        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+        : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     image, term ‘Web image’
         : join `^^Web image$`
@@ -260,7 +261,7 @@ Wayic index
 ╺━━ J ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     join
-        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+        : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     jointer
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -296,10 +297,10 @@ Wayic index
 ╺━━ N ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     NB
-        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+        : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     N.B.
-        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+        : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     newline
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
@@ -422,11 +423,11 @@ Wayic index
 ╺━━ S ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     see
-        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+        : see same term @ `^^see\+` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     see also
-        : see `‘NB’.+‘(see)’.+ gap .+‘(also)’` @ `includes a referential command`
-          @ `^^ imperative clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `‘(see)’.+‘(also)’` @ `^^see\+` @ `^^ referential command$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     segment
         , term ‘body segment’
             : join `^^body segment$`
@@ -486,7 +487,7 @@ Wayic index
 ╺━━ V ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     viz.
-        : see same term @ `includes a referential command` @ `^^ imperative clause$`
+        : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
