@@ -61,8 +61,6 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     authority, certificate of
         : join `^^certificate of authority$`
-    autoprivatizer
-        : see  @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ B ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -327,8 +325,6 @@ Wayic index
         : join `^^proper package$`
     parent, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    parental privatizer
-        : see  @ http://reluk.ca/project/Breccia/language_definition.brec
     patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -358,17 +354,13 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     private
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-        : see same term @ `descriptor .+ form:$` @ `^^ Parental privatizer$`
+        : see same term @ `command .+ form:$` @ `^^ Privatizer$`
           @ http://reluk.ca/project/Breccia/lexicon.brec
     privately
-        : see same term @ `descriptor .+ form:$` @ `^^ Autoprivatizer$`
+        : see same term @ `descriptor .+ form:$` @ `^^ Command point$`
           @ http://reluk.ca/project/Breccia/lexicon.brec
     privatizer
-        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        , term ‘autoprivatizer’
-            : join `^^autoprivatizer$`
-        , term ‘parental privatizer’
-            : join `^^parental privatizer$`
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     proper package
         : see `^^proper package, of a project$` @ http://reluk.ca/project/lexicon.brec
     proper path
