@@ -14,8 +14,8 @@ Wayic index
     `>`
         : see @ http://reluk.ca/project/editing/lexicon.brec
     `@`
-        : see `^^ancestor qualification$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^document qualification$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^containment clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `containment separator$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `\`
         : see `^^ Comment carrier$` @ http://reluk.ca/project/Breccia/language_definition.brec
     `^^`
@@ -38,7 +38,7 @@ Wayic index
     ancestor, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     append
-        : see same term @ `descriptor .+ form:$` @ `^^appendage patch$`
+        : see same term @ `command .+ form:$` @ `^^appendage patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     appendage patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -127,7 +127,7 @@ Wayic index
     declaration, term ‘way declaration’
         : join `^^way declaration$`
     delete
-        : see same term @ `descriptor .+ form:$` @ `^^deletion patch$`
+        : see same term @ `command .+ form:$` @ `^^deletion patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     deletion patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -135,16 +135,13 @@ Wayic index
     descendant, of a fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     descriptor
-        : see `^^document descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^file descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^point descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
     directory, term ‘command directory’
         : join `^^command directory$`
     divider
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     division
-        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    document fractum
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -177,6 +174,9 @@ Wayic index
             : join `^^form F$`
         , right to
             : join `^^right to F$`
+    file fractum
+        : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     formal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     form F
@@ -200,8 +200,8 @@ Wayic index
             : see @ http://reluk.ca/project/Breccia/language_definition.brec
         , term ‘body fractum’
             : join `^^body fractum$`
-        , term ‘document fractum’
-            : join `^^document fractum$`
+        , term ‘file fractum’
+            : join `^^file fractum$`
         , term ‘fractum’
             : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
@@ -341,13 +341,13 @@ Wayic index
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     precede
-        : see same term @ `descriptor .+ form:$` @ `^^precession patch$`
+        : see same term @ `command .+ form:$` @ `^^precession patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     precession patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     prepend
-        : see same term @ `descriptor .+ form:$` @ `^^prependage patch$`
+        : see same term @ `command .+ form:$` @ `^^prependage patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     prependage patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -357,7 +357,7 @@ Wayic index
         : see same term @ `command .+ form:$` @ `^^ Privatizer$`
           @ http://reluk.ca/project/Breccia/lexicon.brec
     privately
-        : see same term @ `descriptor .+ form:$` @ `^^ Command point$`
+        : see same term @ `command .+ form:$` @ `^^ Command point$`
           @ http://reluk.ca/project/Breccia/lexicon.brec
     privatizer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -382,7 +382,7 @@ Wayic index
     regular expression
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     replace
-        : see same term @ `descriptor .+ form:$` @ `^^replacement patch$`
+        : see same term @ `command .+ form:$` @ `^^replacement patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     replacement patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -445,7 +445,7 @@ Wayic index
     subjoint
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     succeed
-        : see same term @ `descriptor .+ form:$` @ `^^succession patch$`
+        : see same term @ `command .+ form:$` @ `^^succession patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     succession patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -467,7 +467,7 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     thoroughfractum
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-        : see same term @ `descriptor .+ form:$` @ `^^ Thoroughfractum designator$`
+        : see same term @ `command .+ form:$` @ `^^ Thoroughfractum designator$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     thoroughfractum designator
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
