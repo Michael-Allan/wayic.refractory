@@ -16,8 +16,13 @@ Wayic index
     `@`
         : see `^^containment clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `containment separator$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see same term @ `command .+ form:$` @ `^^appendage patch$`
+        : see same term @ `command .+ form:$` @ `^^prependage patch$`
     `\`
         : see `^^ Comment carrier$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    `\t`
+        : see `^^\\t$` @ `^^ Pattern matching$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     `^^`
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -193,6 +198,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     fractal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+        , term ‘non-fractal’
+            : join `^^non-fractal$`
     fractal segment
         : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
     fractum
@@ -222,6 +229,8 @@ Wayic index
 
     head
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see same term @ `^^- An inferential referent indicator comprises $`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     hierarchic order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     hierarchy
@@ -304,6 +313,9 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     nominate
         : see @ http://reluk.ca/project/waycast/wayics/lexicon.brec
+    non-fractal
+        : see same term @ `^^·$` @ `^^ Resource indicator$`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ O ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -357,7 +369,7 @@ Wayic index
         : see same term @ `command .+ form:$` @ `^^ Privatizer$`
           @ http://reluk.ca/project/Breccia/lexicon.brec
     privately
-        : see same term @ `command .+ form:$` @ `^^ Command point$`
+        : see same term @ `descriptor .+ form:$` @ `^^ Command point$`
           @ http://reluk.ca/project/Breccia/lexicon.brec
     privatizer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -414,6 +426,9 @@ Wayic index
 
 ╺━━ S ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    same
+        : see same term @ `^^- An inferential referent indicator comprises $`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     see
         : see same term @ `^^see\+` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -430,6 +445,9 @@ Wayic index
     sibling insertion patch
         : see `^^ Fractal types$` @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    similar
+        : see same term @ `^^- An inferential referent indicator comprises $`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     simulacra
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     simulacral
@@ -461,6 +479,9 @@ Wayic index
     task point
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    term
+        : see same term @ `^^- An inferential referent indicator comprises $`
+          @ http://reluk.ca/project/Breccia/language_definition.brec
     thoroughfracta
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
     thoroughfractal
