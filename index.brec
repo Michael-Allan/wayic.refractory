@@ -179,9 +179,14 @@ Wayic index
             : join `^^form F$`
         , right to
             : join `^^right to F$`
+    file
+        , term ‘headless file’
+            : join `^^headless file$`
     file fractum
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    file head
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     formal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     form F
@@ -231,6 +236,8 @@ Wayic index
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see same term @ `^^- An inferential referent indicator comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
+    headless file
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     hierarchic order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     hierarchy
