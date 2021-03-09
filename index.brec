@@ -51,8 +51,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-    authority, certificate of
-        : join `^^certificate of authority$`
+    authority, term ‘certificate of authority’
+        : re `‘(.+)’` join same
 
 
 ╺━━ B ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -80,6 +80,8 @@ Wayic index
         : see http://reluk.ca/project/Breccia/parser/
     Breccia Web Imager
         : see http://reluk.ca/project/Breccia/Web/imager/
+    Breccia X-Breccia Translator
+        : see http://reluk.ca/project/Breccia/XML/translator/
     bullet
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -127,6 +129,9 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     descendant, of a fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    designator
+        , term ‘thoroughfractum designator’
+            : re `‘(.+)’` join same
     descriptor
         : see `^^file descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `^^point descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -153,6 +158,9 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘way engagement point’
             : re `‘(.+)’` join same
+    expression
+        , term ‘regular expression’
+            : re `‘(.+)’` join same
     extracast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
@@ -166,6 +174,8 @@ Wayic index
             : re `‘(.+)’` join same
     file, term ‘headless file’
         : re `‘(.+)’` join same
+    file descriptor
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     file fractum
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     file head
@@ -214,6 +224,8 @@ Wayic index
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see same term @ `^^- An inferential referent indicator comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
+        , term ‘file head’
+            : re `‘(.+)’` join same
     headless file
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     hierarchic order
@@ -234,6 +246,8 @@ Wayic index
         : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     image, term ‘Web image’
+        : re `‘(.+)’` join same
+    imager, term ‘Web imager’
         : re `‘(.+)’` join same
     indent, term ‘perfect indent’
         : re `‘(.+)’` join same
@@ -268,6 +282,8 @@ Wayic index
 
 ╺━━ L ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    life, term ‘aimed way of life’
+        : re `‘(.+)’` join same
     linear order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
 
@@ -276,6 +292,8 @@ Wayic index
 
     Makeshift
         : see http://reluk.ca/project/building/Makeshift/
+    matching, term ‘pattern matching’
+        : re `‘(.+)’` join same
     mode
         , Breccia Mode
             : join `^^Breccia Mode for Emacs$`
@@ -321,6 +339,8 @@ Wayic index
         : re `‘(.+)’` join same
     parent, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    parser, term ‘Breccia parser’
+        : re `‘(.+)’` join same
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     path, term ‘proper path’
@@ -368,6 +388,8 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
     recast kit
         : see http://reluk.ca/project/wayic/recast/kit/
+    reference, term ‘associative reference’
+        : re `‘(.+)’` join same
     refractory, term ‘Wayic Refractory’
         : re `‘(.+)’` join same
     regular expression
@@ -397,6 +419,9 @@ Wayic index
 
 ╺━━ S ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    safe
+        , term ‘thread safe’
+            : re `‘(.+)’` join same
     same
         : see same term @ `^^- An inferential referent indicator comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -462,6 +487,8 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     thread safe
         : see @ http://reluk.ca/project/Java/lexicon.brec
+    translator, term ‘Breccia X-Breccia Translator’
+        : re `‘(.+)’` join same
 
 
 ╺━━ V ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -560,6 +587,8 @@ Wayic index
     X-Breccia
         : see http://reluk.ca/project/Breccia/XML/
         : see @ http://reluk.ca/project/Breccia/XML/lexicon.brec
+        , translator
+            : see `^^Breccia X-Breccia Translator$`
 
 
 
