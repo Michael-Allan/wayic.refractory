@@ -214,8 +214,6 @@ Wayic index
             : join `^^form G$`
         , term ‘right to G’
             : re `‘(.+)’` join same
-    generic point
-        : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ H ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -349,6 +347,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     perfect indent
         : see @ `^^ Whitespace$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    plain point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     pointer
