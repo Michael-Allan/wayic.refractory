@@ -70,6 +70,8 @@ Wayic index
     Breccia
         : see http://reluk.ca/project/Breccia/
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+        , plain parser
+            : see http://reluk.ca/project/Breccia/parser/plain/
         , Web imager
             : join `^^Breccia Web Imager$`
     Breccia Mode for Emacs
@@ -337,8 +339,11 @@ Wayic index
         : re `‘(.+)’` join same
     parent, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    parser, term ‘Breccia parser’
-        : re `‘(.+)’` join same
+    parser
+        , term ‘Breccia Parser’
+            : re `‘(.+)’` join same
+        , of plain Breccia
+            : join `^^, plain parser$` @ `^^Breccia$`
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     path, term ‘proper path’
