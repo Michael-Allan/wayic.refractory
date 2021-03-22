@@ -135,8 +135,8 @@ Wayic index
         , term ‘thoroughfractum designator’
             : re `‘(.+)’` join same
     descriptor
-        : see `^^file descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see `^^point descriptor$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `^^file descriptor$`
+        : see `^^point descriptor$`
     directory, term ‘command directory’
         : re `‘(.+)’` join same
     divider
@@ -351,10 +351,12 @@ Wayic index
     pattern matching
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     perfect indent
-        : see @ `^^ Whitespace$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
     plain point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     point
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    point descriptor
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     pointer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
