@@ -182,6 +182,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     file head
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    foregap
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     formal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     form F
@@ -215,6 +217,11 @@ Wayic index
         , form
             : join `^^form G$`
         , term ‘right to G’
+            : re `‘(.+)’` join same
+    gap
+        , term ‘foregap’
+            : re `‘(.+)’` join same
+        , term ‘postgap’
             : re `‘(.+)’` join same
 
 
@@ -360,6 +367,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     pointer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    postgap
+        : see @ http://reluk.ca/project/Breccia/lexicon.brec
     precede
         : see same term @ `command .+ form:$` @ `^^precession patch$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
