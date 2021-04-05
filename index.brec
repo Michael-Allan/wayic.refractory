@@ -229,7 +229,7 @@ Wayic index
 
     head
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see same term @ `^^- An inferential referent indicator comprises $`
+        : see same term @ `^^- An inferential referent indicant comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
         , term ‘file head’
             : re `‘(.+)’` join same
@@ -323,7 +323,7 @@ Wayic index
     nominate
         : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
     non-fractal
-        : see same term @ `^^·$` @ `^^ Resource indicator$`
+        : see same term @ `^^·$` @ `^^ Resource indicant$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
@@ -439,7 +439,7 @@ Wayic index
         , term ‘thread safe’
             : re `‘(.+)’` join same
     same
-        : see same term @ `^^- An inferential referent indicator comprises $`
+        : see same term @ `^^- An inferential referent indicant comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     see
         : see same term @ `^^see\+` @ `^^ referential command$`
@@ -457,7 +457,7 @@ Wayic index
     sibling insertion patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     similar
-        : see same term @ `^^- An inferential referent indicator comprises $`
+        : see same term @ `^^- An inferential referent indicant comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     simulacra
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
@@ -489,7 +489,7 @@ Wayic index
     task point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     term
-        : see same term @ `^^- An inferential referent indicator comprises $`
+        : see same term @ `^^- An inferential referent indicant comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     thoroughfracta
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
