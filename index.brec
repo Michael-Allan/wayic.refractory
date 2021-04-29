@@ -14,8 +14,6 @@ Wayic index
     @
         : see `^^containment clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
         : see `containment separator$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see same term @ `command .+ form:$` @ `^^appendage patch$`
-        : see same term @ `command .+ form:$` @ `^^prependage patch$`
     \ 
         : see `^^ Comment carrier$` @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -34,11 +32,6 @@ Wayic index
         : re `\`(.+)\`` join same
     ancestor, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    append
-        : see same term @ `command .+ form:$` @ `^^appendage patch$`
-          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    appendage patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     architectonic
         : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
         , of the wayic
@@ -101,8 +94,6 @@ Wayic index
           @ http://reluk.ca/project/Breccia/language_definition.brec
     child, of a fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    child insertion patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     code
         , term ‘source code’
             : re `‘(.+)’` join same
@@ -118,17 +109,14 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     concrete
         : see @ http://reluk.ca/project/lexicon.brec
+    containment clause
+        : see @ `^^ referent clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ D ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     declaration, term ‘way declaration’
         : re `‘(.+)’` join same
-    delete
-        : see same term @ `command .+ form:$` @ `^^deletion patch$`
-          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    deletion patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     descendant, of a fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     designator
@@ -172,6 +160,8 @@ Wayic index
     F
         , form
             : join `^^form F$`
+        , separator
+            : see `^^F$` @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
         , term ‘right to F’
             : re `‘(.+)’` join same
     file, term ‘headless file’
@@ -209,6 +199,8 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘file fractum’
             : re `‘(.+)’` join same
+    fractum indicant
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
 
 ╺━━ G ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -260,13 +252,17 @@ Wayic index
         : re `‘(.+)’` join same
     indent blind
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    indicant
+        , term ‘fractum indicant’
+            : re `‘(.+)’` join same
+        , term ‘inferential referent indicant’
+            : re `‘(.+)’` join same
+        , term ‘resource indicant’
+            : re `‘(.+)’` join same
+    inferential referent indicant
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     informal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    insertion patch
-        , child
-            : join `^^child insertion patch$`
-        , sibling
-            : join `^^sibling insertion patch$`
     intracast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
@@ -342,6 +338,8 @@ Wayic index
 
 ╺━━ P ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    P
+        : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
     package, term ‘proper package’
         : re `‘(.+)’` join same
     parent, of a body fractum
@@ -369,16 +367,6 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     postgap
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    precede
-        : see same term @ `command .+ form:$` @ `^^precession patch$`
-          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    precession patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    prepend
-        : see same term @ `command .+ form:$` @ `^^prependage patch$`
-          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    prependage patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     private
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
         : see same term @ `command .+ form:$` @ `^^ Privatizer$`
@@ -406,15 +394,15 @@ Wayic index
         : see http://reluk.ca/project/wayic/recast/kit/
     reference, term ‘associative reference’
         : re `‘(.+)’` join same
+    referent
+        , term ‘inferential referent indicant’
+            : re `‘(.+)’` join same
     refractory, term ‘Wayic Refractory’
         : re `‘(.+)’` join same
     regular expression
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    replace
-        : see same term @ `command .+ form:$` @ `^^replacement patch$`
-          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    replacement patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    resource indicant
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
     right
         : see @ http://reluk.ca/project/waycast/ethic/lexicon.brec
         , proto-cast of
@@ -435,6 +423,8 @@ Wayic index
 
 ╺━━ S ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    S
+        : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
     safe
         , term ‘thread safe’
             : re `‘(.+)’` join same
@@ -454,8 +444,6 @@ Wayic index
             : re `‘(.+)’` join same
     sibling, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    sibling insertion patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     similar
         : see same term @ `^^- An inferential referent indicant comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
@@ -473,11 +461,6 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     subjoint
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    succeed
-        : see same term @ `command .+ form:$` @ `^^succession patch$`
-          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    succession patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     surjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     surjoint
@@ -575,6 +558,7 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     way model
         : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     way of life, aimed
         : join `^^aimed way of life$`
     waysource
