@@ -289,6 +289,8 @@ Wayic index
         : re `‘(.+)’` join same
     linear order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    local, of a waycast or waysource
+        : see `^^local$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
 
 
 ╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
