@@ -83,6 +83,8 @@ Wayic index
 
 ╺━━ C ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    canonical location
+        : see @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
     carrier, term ‘comment carrier’
         : re `‘(.+)’` join same
     cast
@@ -263,6 +265,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     informal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    internment
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     intracast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
