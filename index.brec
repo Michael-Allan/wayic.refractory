@@ -266,7 +266,7 @@ Wayic index
     informal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     internment
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        : see @ http://reluk.ca/project/wayic/model/form_and_compilation.brec
     intracast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
@@ -294,7 +294,7 @@ Wayic index
     linear order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     local, of a waycast or waysource
-        : see `^^local$` @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see `^^local$` @ http://reluk.ca/project/wayic/model/lexicon.brec
 
 
 ╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -332,9 +332,9 @@ Wayic index
 ╺━━ O ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     off-way
-        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     on-way
-        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     order
         , term ‘hierarchic order’
             : re `‘(.+)’` join same
@@ -481,11 +481,11 @@ Wayic index
         : see same term @ `^^- An inferential referent indicant comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
     thoroughfracta
-        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     thoroughfractal
-        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     thoroughfractum
-        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
         : see same term @ `command .+ form:$` @ `^^ Thoroughfractum designator$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     thoroughfractum designator
@@ -563,8 +563,9 @@ Wayic index
     way engagement point
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     way model
-        : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    Way Modelling
+        : see http://reluk.ca/project/wayic/model/
     way of life, aimed
         : join `^^aimed way of life$`
     waysource
