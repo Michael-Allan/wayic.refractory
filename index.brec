@@ -54,10 +54,14 @@ Wayic index
         : re `‘(.+)’` join same
     body
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ `Its command has this form:$` @ `^^body reference$` @
+          http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     body segment
         : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
     body fractum
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    body reference
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     .brec
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     Breccia
@@ -400,8 +404,11 @@ Wayic index
         : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
     recast kit
         : see http://reluk.ca/project/wayic/recast/kit/
-    reference, term ‘associative reference’
-        : re `‘(.+)’` join same
+    reference
+        , term ‘associative reference’
+            : re `‘(.+)’` join same
+        , term ‘body reference’
+            : re `‘(.+)’` join same
     referent
         , term ‘inferential referent indicant’
             : re `‘(.+)’` join same
@@ -411,6 +418,7 @@ Wayic index
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     resource indicant
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     right
         : see @ http://reluk.ca/project/waycast/ethic/lexicon.brec
         , proto-cast of
@@ -496,6 +504,13 @@ Wayic index
         : see @ http://reluk.ca/project/Java/lexicon.brec
     translator, term ‘Breccia X-Breccia Translator’
         : re `‘(.+)’` join same
+
+
+╺━━ U ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    uninterned
+        : see same term @ `^^·$` @ `^^ Resource indicant$`
+          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
 
 ╺━━ V ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
