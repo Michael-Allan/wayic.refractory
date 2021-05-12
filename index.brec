@@ -9,6 +9,8 @@ Wayic index
         : see `^^ Aside point$` @ http://reluk.ca/project/Breccia/language_definition.brec
     : 
         : see `^^ Command point$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see `─╴‘(:)/’╶── authority ─` @ `^^Subsumption$` @
+          http://reluk.ca/project/wayic/model/form_and_compilation.brec
     >
         : see @ http://reluk.ca/project/editing/lexicon.brec
     @
@@ -269,8 +271,6 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     informal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    internment
-        : see @ http://reluk.ca/project/wayic/model/form_and_compilation.brec
     intracast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
@@ -409,6 +409,8 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘body reference’
             : re `‘(.+)’` join same
+        , term ‘subsuming reference’
+            : re `‘(.+)’` join same
     referent
         , term ‘inferential referent indicant’
             : re `‘(.+)’` join same
@@ -477,6 +479,12 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     subjoint
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
+    subsume
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    subsuming reference
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    subsumption
+        : see @ http://reluk.ca/project/wayic/model/form_and_compilation.brec
     surjoin
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     surjoint
@@ -508,7 +516,9 @@ Wayic index
 
 ╺━━ U ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    uninterned
+    uncast
+        : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
+    unsubsumed
         : see same term @ `^^·$` @ `^^ Resource indicant$`
           @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
