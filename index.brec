@@ -297,8 +297,8 @@ Wayic index
         : re `‘(.+)’` join same
     linear order
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    local, of a waycast or waysource
-        : see `^^local$` @ http://reluk.ca/project/wayic/model/lexicon.brec
+    local, of a waycast, waysource or cast file
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
 
 
 ╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -409,8 +409,6 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘body reference’
             : re `‘(.+)’` join same
-        , term ‘subsuming reference’
-            : re `‘(.+)’` join same
     referent
         , term ‘inferential referent indicant’
             : re `‘(.+)’` join same
@@ -418,6 +416,8 @@ Wayic index
         : re `‘(.+)’` join same
     regular expression
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    remote, of a waycast, waysource or cast file
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     resource indicant
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
@@ -480,8 +480,6 @@ Wayic index
     subjoint
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     subsume
-        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
-    subsuming reference
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     subsumption
         : see @ http://reluk.ca/project/wayic/model/form_and_compilation.brec
