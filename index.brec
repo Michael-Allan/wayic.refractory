@@ -295,6 +295,8 @@ Wayic index
 
 ╺━━ L ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+    lexicographic path order
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     life, term ‘aimed way of life’
         : re `‘(.+)’` join same
     linear order
@@ -344,6 +346,8 @@ Wayic index
     order
         , term ‘hierarchic order’
             : re `‘(.+)’` join same
+        , term ‘lexicographic path order’
+            : re `‘(.+)’` join same
         , term ‘linear order’
             : re `‘(.+)’` join same
 
@@ -363,8 +367,11 @@ Wayic index
             : join `^^, plain parser$` @ `^^Breccia$`
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    path, term ‘proper path’
-        : re `‘(.+)’` join same
+    path
+        , term ‘lexicographic path order’
+            : re `‘(.+)’` join same
+        , term ‘proper path’
+            : re `‘(.+)’` join same
     pattern matching
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     perfect indent
