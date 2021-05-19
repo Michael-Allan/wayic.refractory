@@ -46,6 +46,7 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     authority, term ‘certificate of authority’
         : re `‘(.+)’` join same
 
@@ -113,6 +114,9 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     comment carrier
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
+    compilation
+        : see @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see @ http://reluk.ca/project/wayic/model/form_and_compilation.brec
     compile
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     concrete
@@ -207,6 +211,8 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘file fractum’
             : re `‘(.+)’` join same
+        , term ‘remote fractum indicant’
+            : re `‘(.+)’` join same
     fractum indicant
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
 
@@ -264,6 +270,8 @@ Wayic index
         , term ‘fractum indicant’
             : re `‘(.+)’` join same
         , term ‘inferential referent indicant’
+            : re `‘(.+)’` join same
+        , term ‘remote fractum indicant’
             : re `‘(.+)’` join same
         , term ‘resource indicant’
             : re `‘(.+)’` join same
@@ -367,6 +375,8 @@ Wayic index
             : join `^^, plain parser$` @ `^^Breccia$`
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    patching
+        : see @ http://reluk.ca/project/wayic/model/form_and_compilation.brec
     path
         , term ‘lexicographic path order’
             : re `‘(.+)’` join same
@@ -427,6 +437,8 @@ Wayic index
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     remote, of a waycast, waysource or cast file
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    remote fractum indicant
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     resource indicant
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
