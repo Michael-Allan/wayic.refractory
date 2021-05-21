@@ -103,6 +103,8 @@ Wayic index
           @ http://reluk.ca/project/Breccia/language_definition.brec
     child, of a fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    clause, term ‘containment clause’
+        : re `‘(.+)’` join same
     code
         , term ‘source code’
             : re `‘(.+)’` join same
@@ -131,9 +133,8 @@ Wayic index
         : re `‘(.+)’` join same
     descendant, of a fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    designator
-        , term ‘thoroughfractum designator’
-            : re `‘(.+)’` join same
+    designator, term ‘thoroughfractum designator’
+        : re `‘(.+)’` join same
     descriptor
         : see `^^file descriptor$`
         : see `^^point descriptor$`
@@ -160,9 +161,8 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘way engagement point’
             : re `‘(.+)’` join same
-    expression
-        , term ‘regular expression’
-            : re `‘(.+)’` join same
+    expression, term ‘regular expression’
+        : re `‘(.+)’` join same
     extracast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
 
@@ -311,6 +311,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     local, of a waycast, waysource or cast file
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+    location, term ‘canonical location’
+        : re `‘(.+)’` join same
 
 
 ╺━━ M ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -428,9 +430,8 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘body reference’
             : re `‘(.+)’` join same
-    referent
-        , term ‘inferential referent indicant’
-            : re `‘(.+)’` join same
+    referent, term ‘inferential referent indicant’
+        : re `‘(.+)’` join same
     refractory, term ‘Wayic Refractory’
         : re `‘(.+)’` join same
     regular expression
@@ -464,9 +465,8 @@ Wayic index
 
     S
         : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    safe
-        , term ‘thread safe’
-            : re `‘(.+)’` join same
+    safe, term ‘thread safe’
+        : re `‘(.+)’` join same
     same
         : see same term @ `^^- An inferential referent indicant comprises $`
           @ http://reluk.ca/project/Breccia/language_definition.brec
