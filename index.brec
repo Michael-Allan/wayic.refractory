@@ -34,6 +34,8 @@ Wayic index
         : re `\`(.+)\`` join same
     ancestor, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
+    application, term ‘patch application’
+        : re `‘(.+)’` join same
     architectonic
         : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
         , of the wayic
@@ -377,7 +379,7 @@ Wayic index
             : join `^^, plain parser$` @ `^^Breccia$`
     patch
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-    patching
+    patch application
         : see @ http://reluk.ca/project/wayic/model/form_and_compilation.brec
     path
         , term ‘lexicographic path order’
