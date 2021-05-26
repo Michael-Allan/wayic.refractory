@@ -48,7 +48,6 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     associative reference
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     authority, term ‘certificate of authority’
         : re `‘(.+)’` join same
 
@@ -59,14 +58,10 @@ Wayic index
         : re `‘(.+)’` join same
     body
         : see @ `^^ Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see @ `Its command has this form:$` @ `^^body reference$` @
-          http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     body segment
         : see @ http://reluk.ca/project/Breccia/parser/lexicon.brec
     body fractum
         : see `^^ fractal types$` @ http://reluk.ca/project/Breccia/language_definition.brec
-    body reference
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     .brec
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     Breccia
@@ -371,8 +366,6 @@ Wayic index
             : re `‘(.+)’` join same
         , of plain Breccia
             : join `^^, plain parser$` @ `^^Breccia$`
-    patch
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     patch application
         : see @ http://reluk.ca/project/wayic/model/form_and_compilation.brec
     path
@@ -433,13 +426,9 @@ Wayic index
     regular expression
         : see `^^ Pattern matching$` @ http://reluk.ca/project/Breccia/language_definition.brec
     remote
-        , of referential markup
-            : see @ http://reluk.ca/project/wayic/Waybrec/lexicon.brec
-        , of a waycast, waysource or cast file
-            : see @ http://reluk.ca/project/wayic/model/lexicon.brec
+        : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     resource indicant
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
-        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     right
         : see @ http://reluk.ca/project/waycast/ethic/lexicon.brec
         , proto-cast of
@@ -544,9 +533,6 @@ Wayic index
 
     uncast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
-    uninterned
-        : see same term @ `^^·$` @ `^^ Resource indicant$`
-          @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
 
 
 ╺━━ V ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
