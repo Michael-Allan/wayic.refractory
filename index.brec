@@ -272,8 +272,8 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     informal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    intercast, project
-        : see http://reluk.ca/project/wayic/intercast/
+    intercast, term ‘Wayic Intercast’
+        : re `‘(.+)’` join same
     intern
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     intracast
@@ -597,6 +597,8 @@ Wayic index
         : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
     Wayic Code
         : see http://reluk.ca/project/wayic/code/
+    Wayic Intercast
+        : see http://reluk.ca/project/wayic/intercast/
     Wayic Refractory
         : see http://reluk.ca/project/wayic/refractory/
     wayics
