@@ -158,6 +158,8 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘way engagement point’
             : re `‘(.+)’` join same
+    executive-integrative network
+        : see http://reluk.ca/project/wayic/intercast/executive-integrative_network.brec
     expression, term ‘regular expression’
         : re `‘(.+)’` join same
     extracast
@@ -272,8 +274,13 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     informal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    intercast, term ‘Wayic Intercast’
-        : re `‘(.+)’` join same
+    integrative
+        , term ‘executive-integrative network’
+            : re `‘(.+)’` join same
+    intercast
+        : see @ http://reluk.ca/project/wayic/intercast/lexicon.brec
+        , term ‘Wayic Intercast’
+            : re `‘(.+)’` join same
     intern
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     intracast
@@ -331,6 +338,9 @@ Wayic index
     N.B.
         : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
+    network
+        , term ‘executive-integrative network’
+            : re `‘(.+)’` join same
     newline
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     nominate
