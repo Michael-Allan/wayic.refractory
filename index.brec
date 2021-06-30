@@ -158,8 +158,6 @@ Wayic index
             : re `‘(.+)’` join same
         , term ‘way engagement point’
             : re `‘(.+)’` join same
-    executive-integrative network
-        : see http://reluk.ca/project/wayic/intercast/executive-integrative_network.brec
     expression, term ‘regular expression’
         : re `‘(.+)’` join same
     extracast
@@ -274,13 +272,10 @@ Wayic index
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     informal
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
-    integrative
-        , term ‘executive-integrative network’
-            : re `‘(.+)’` join same
     intercast
         : see @ http://reluk.ca/project/wayic/intercast/lexicon.brec
-        , term ‘Wayic Intercast’
-            : re `‘(.+)’` join same
+    intercast networking, project
+        : see http://reluk.ca/project/wayic/intercast/
     intern
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
     intracast
@@ -295,12 +290,6 @@ Wayic index
     jointer
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
         : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
-
-
-╺━━ K ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-    kit, term ‘recast kit’
-        : re `‘(.+)’` join same
 
 
 ╺━━ L ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -338,9 +327,8 @@ Wayic index
     N.B.
         : see same term @ `^^·$` @ `^^ referential command$`
           @ http://reluk.ca/project/Breccia/language_definition.brec
-    network
-        , term ‘executive-integrative network’
-            : re `‘(.+)’` join same
+    networking, term ‘intercast networking’
+        : re `‘(.+)’` join same
     newline
         : see @ http://reluk.ca/project/Breccia/lexicon.brec
     nominate
@@ -422,10 +410,6 @@ Wayic index
         : see `^^ referrer clause$` @ http://reluk.ca/project/Breccia/language_definition.brec
     rebase
         : see @ http://reluk.ca/project/lexicon.brec
-    recast
-        : see @ http://reluk.ca/project/wayic/recast/lexicon.brec
-    recast kit
-        : see http://reluk.ca/project/wayic/recast/kit/
     reference
         , term ‘associative reference’
             : re `‘(.+)’` join same
@@ -577,7 +561,7 @@ Wayic index
         : see http://reluk.ca/project/wayic/Waybrec/parser/
     waycast
         : see @ http://reluk.ca/project/wayic/cast/lexicon.brec
-        , formal project
+        , project
             : see http://reluk.ca/project/wayic/cast/
         , Web imager
             : join `^^Waycast Web Imager$`
@@ -613,8 +597,6 @@ Wayic index
         : see @ http://reluk.ca/project/waycast/wayic/lexicon.brec
     Wayic Code
         : see http://reluk.ca/project/wayic/code/
-    Wayic Intercast
-        : see http://reluk.ca/project/wayic/intercast/
     Wayic Refractory
         : see http://reluk.ca/project/wayic/refractory/
     wayics
