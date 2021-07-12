@@ -359,6 +359,10 @@ Wayic index
         : see @ `^^ Separation$` @ http://reluk.ca/project/Breccia/language_definition.brec
     package, term ‘proper package’
         : re `‘(.+)’` join same
+    parameter, term ‘waycast parameter’
+        : re `‘(.+)’` join same
+    parameterizer, term ‘waycast parameterizer’
+        : re `‘(.+)’` join same
     parent, of a body fractum
         : see @ `^^ hierarchic relata$` @ http://reluk.ca/project/Breccia/language_definition.brec
     parser
@@ -513,7 +517,8 @@ Wayic index
     task point
         : see @ http://reluk.ca/project/Breccia/language_definition.brec
     term
-        : see same term @ `^^- An inferential referent indicant comprises $`
+        : see same head @ `^^Fractum$` @ http://reluk.ca/project/Breccia/language_definition.brec
+        : see same term @ `^^- An inferential referent indicant comprises `
           @ http://reluk.ca/project/Breccia/language_definition.brec
     thoroughfracta
         : see @ http://reluk.ca/project/wayic/model/lexicon.brec
@@ -571,6 +576,11 @@ Wayic index
         : see `^^identifier of a waycaster$` @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
         : see `^^waycaster_identifier$` @ `^^certificate of authority$`
           @ http://reluk.ca/project/wayic/cast/form_of_a_waycast.brec
+    waycast parameter
+        : see same term @ `^^- Its command has this form:$` @ `^^Waycast parameterizer$` @
+          http://reluk.ca/project/wayic/Waybrec/language_definition.brec
+    waycast parameterizer
+        : see @ http://reluk.ca/project/wayic/Waybrec/language_definition.brec
     Waycast Web Imager
         : see http://reluk.ca/project/wayic/Web/imager/
     way declaration
